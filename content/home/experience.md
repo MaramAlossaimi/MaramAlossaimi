@@ -45,15 +45,6 @@ experience:
     date_end: '2018-7-17'
     description: I t bbb
 
-  - title: Master degree
-    company: University Manchester
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-09-20'
-    date_end: '2017-10-17'
-    description: I took some modules in algebras,
-
 
 design:
   columns: '2'
