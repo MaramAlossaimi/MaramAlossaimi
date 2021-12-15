@@ -22,29 +22,57 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: PhD
+    company: Sheffield Univerity
     company_url: ''
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2018-10-01'
+    date_end: '2022-12-30'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Teaching
+        * Training
+        * Marking
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+        - title: Teaching in Imam University
+    company: University Manchester
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2017-11-20'
+    date_end: '2018-7-17'
+    description: I t
+
+  - title: Master degree
+    company: University Manchester
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-09-20'
+    date_end: '2017-10-17'
+    description: I took some modules in algebras, I did a short project in group theory and then I wrote my dissertation, classified some simple finite groups, in particaular, the Leech Lattice and Conway groups and this work was done under the supervision of Prof. Peter Rolwley.
+
+- title: Teaching in Imam University
+    company: University Manchester
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2013-09-20'
+    date_end: '2014-10-17'
+    description: I t
+
+
+- title: BSc in maths
+    company: KSU
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2008-09-20'
+    date_end: '2012-10-17'
+    description: I t
 
 design:
-  columns: '2'
+  columns: '4'
 ---
