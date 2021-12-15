@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: hourglass_flowing_sand
+  icon: time
   icon_pack: fab
   name: Management time
 - description: 80%
