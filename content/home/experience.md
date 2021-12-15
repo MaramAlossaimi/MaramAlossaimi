@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: PhD
     company: Sheffield University
-    company_url: 'https://www.sheffield.ac.uk'
+    company_url: ''
     company_logo: org-gc
     location: UK
     date_start: '2021-10-01'
