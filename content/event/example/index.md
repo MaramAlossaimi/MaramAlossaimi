@@ -1,11 +1,11 @@
 ---
-title: Polynomial Poisson Algebras
+title: Polynomial Poisson Algebras talk
 
 event: the 10th Interna- tional Eurasian Conference on Mathematical Sciences and applications
 event_url: http://www.iecmsa.org
 
-location: Sakarya
-country: Turkey
+location: Sakarya, Turkey
+
 
 
 abstract: "The concept of Poisson algebra is one of the most important concepts in math- ematics that make a link between commutative and noncommutative algebra. The Poisson algebra D can be defined as an algebra over a field K with Poisson bracket {,} such that (D,{,}) is satisfying anti-commutative, Jacobi identity and Leibniz rule. In this talk, I will give the definition of Poisson algebra, talk about some related concepts of polynomial Poisson algebras and give some examples."
