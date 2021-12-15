@@ -46,9 +46,8 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
 
 - title: eeee
-    company: University X
+    company: University Xbbb
     company_url: ''
-    company_logo: org-x
     location: California
     date_start: '2014-01-01'
     date_end: '2015-12-31'
