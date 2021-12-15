@@ -11,11 +11,10 @@ role: PhD students
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Sheffield University
-  url: https://www.stanford.edu/
+  url: https://www.sheffield.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research is classifying a special case of the Poisson algebra class $A = (K[t]; \alpha, \beta, c, u)$
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
