@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: PhD
     company: Sheffield University
-    company_url: ''
+    company_url: 'https://www.sheffield.ac.uk'
     company_logo: org-gc
     location: UK
     date_start: '2021-10-01'
@@ -36,13 +36,13 @@ experience:
         * Moarking
         * Training
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Teaching 
+    company: Imam University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Saudi Arabia
+    date_start: '2017-01-01'
+    date_end: '2018-7-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
