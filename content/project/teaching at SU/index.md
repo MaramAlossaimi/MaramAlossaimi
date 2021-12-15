@@ -1,5 +1,5 @@
 ---
-title: Teaching at Imam University
+title: Teaching at SU
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
