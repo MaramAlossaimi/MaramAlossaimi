@@ -36,7 +36,7 @@ experience:
         * Training
         * Marking
         
-        - title: Teaching in Imam University
+- title: Teaching in Imam University
     company: University Manchester
     company_url: ''
     company_logo: org-x
