@@ -36,13 +36,13 @@ experience:
         * Moarking
         * Training
         
-  - title: Teaching 
-    company: Imam University
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
     company_logo: org-x
-    location: Saudi Arabia
-    date_start: '2017-01-01'
-    date_end: '2018-7-31'
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
