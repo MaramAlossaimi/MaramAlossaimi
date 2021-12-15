@@ -43,7 +43,7 @@ experience:
     location: California
     date_start: '2017-11-20'
     date_end: '2018-7-17'
-    description: I t
+    description: I t bbb
 
   - title: Master degree
     company: University Manchester
@@ -52,8 +52,7 @@ experience:
     location: California
     date_start: '2016-09-20'
     date_end: '2017-10-17'
-    description: I took some modules in algebras, I did a short project in group theory and then I wrote my dissertation, classified some simple finite groups, in particaular, the Leech Lattice and Conway groups and this work was done under the supervision of Prof. Peter Rolwley.
-
+    description: I took some modules in algebras,
 - title: Teaching in Imam University
     company: University Manchester
     company_url: ''
