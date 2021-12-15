@@ -14,25 +14,28 @@ organizations:
   url: https://www.sheffield.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is classifying a special case of the Poisson algebra class $A = (K[t]; \alpha, \beta, c, u)$
+bio: My research is classifying a special case of the Poisson algebra class $A = (K[t]; \alpha, \beta, c, u)$ that is polynomial Poisson algebra in two variables x and y with cofficients in a polynomial Poisson algebra K[t].
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+-  Traveling.
+- Enjoy puzzles.
+- Taking photos.
+- Making friends.
+- Reading books.
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Poisson Algebras and it spertura.
+    institution: The University of Sheffield, United Kingdom
+    year: 2022
+  - course: MSc in Pure Mathematics and Mathematical Logic
+
+    institution: The University of Manchester, United Kingdom
+    year: 2017
+  - course: BSc in  Mathematics
+    institution: The University of King Saud, Saudi Arabia
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,16 +47,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/maram__os
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/MaramAlossaimi
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/maram-alossaimi-45a6a1207/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -63,14 +63,11 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "maram.alosaimi@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+Maram Alossaimi is a PhD student. Her research interests is classifying a special case of the Poisson algebra class $A = (K[t]; \alpha, \beta, c, u)$ that is polynomial Poisson algebra in two variables x and y with cofficients in a polynomial Poisson algebra K[t].
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
