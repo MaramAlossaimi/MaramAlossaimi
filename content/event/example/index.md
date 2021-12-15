@@ -1,24 +1,18 @@
 ---
-title: Example Talk
+title: Polynomial Poisson Algebras
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: the 10th Interna- tional Eurasian Conference on Mathematical Sciences and applications
+event_url: http://www.iecmsa.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Sakarya
+country: Turkey
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
+abstract: "The concept of Poisson algebra is one of the most important concepts in math- ematics that make a link between commutative and noncommutative algebra. The Poisson algebra D can be defined as an algebra over a field K with Poisson bracket {,} such that (D,{,}) is satisfying anti-commutative, Jacobi identity and Leibniz rule. In this talk, I will give the definition of Poisson algebra, talk about some related concepts of polynomial Poisson algebras and give some examples."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-08-01T13:00:00Z"
+date_end: "2021-08-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,10 +29,6 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
