@@ -14,7 +14,7 @@ organizations:
   url: https://www.sheffield.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is classifying a special case of the Poisson algebra class $A = (K[t]; \alpha, \beta, c, u)$ that is polynomial Poisson algebra in two variables x and y with cofficients in a polynomial Poisson algebra K[t].
+bio: My research is classifying a special case of the Poisson algebra class $$A = (K[t]; \alpha, \beta, c, u)$$ that is polynomial Poisson algebra in two variables x and y with cofficients in a polynomial Poisson algebra K[t].
 # Interests to show in About widget
 interests:
 -  Traveling.
