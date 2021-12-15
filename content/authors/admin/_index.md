@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Poisson Algebras and it spertura.
+  - course: PhD in Poisson Algebras and it spertura
     institution: The University of Sheffield, United Kingdom
     year: 2022
   - course: MSc in Pure Mathematics and Mathematical Logic
