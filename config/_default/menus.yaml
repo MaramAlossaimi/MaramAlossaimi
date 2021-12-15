@@ -10,13 +10,13 @@ main:
   - name: Poster
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Teaching
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: Conferenes
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Summer school\workshops
     url: '#featured'
     weight: 50
   - name: Contact
