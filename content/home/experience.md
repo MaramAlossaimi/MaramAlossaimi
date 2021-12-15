@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Teaching
+        * Moarking
+        * Training
         
   - title: Professor of Semiconductor Physics
     company: University X
