@@ -53,24 +53,7 @@ experience:
     date_start: '2016-09-20'
     date_end: '2017-10-17'
     description: I took some modules in algebras,
-- title: Teaching in Imam University
-    company: University Manchester
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2013-09-20'
-    date_end: '2014-10-17'
-    description: I t
 
-
-- title: BSc in maths
-    company: KSU
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2008-09-20'
-    date_end: '2012-10-17'
-    description: I t
 
 design:
   columns: '2'
