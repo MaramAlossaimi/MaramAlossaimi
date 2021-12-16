@@ -53,7 +53,7 @@ experience:
     date_start: '2016-09-20'
     date_end: '2017-10-20'
     description: I did my master degree.
-  - title: Professor of Semiconductor Physics
+  - title: Lecturer
     company: University X
     company_url: ''
     company_logo: org-x
