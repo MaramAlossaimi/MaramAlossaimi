@@ -55,7 +55,7 @@ experience:
     description: I did my master degree.
   - title: Lecturer
     company: Imam Mohammad Ibn Saud Islamic University
-    company_url: ''
+    company_url: 'https://imamu.edu.sa/en/Pages/default.aspx'
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
