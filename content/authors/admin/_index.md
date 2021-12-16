@@ -35,7 +35,7 @@ education:
     year:2016-2017
   - course: BSc in  Mathematics
     institution: The University of King Saud, Saudi Arabia
-    year: 2008 - 2012
+    year: 2008-2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
