@@ -10,10 +10,10 @@ main:
   - name: Posters
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Teaching
     url: '#projects copy'
     weight: 30
-  - name: Teaching
+  - name: Projects
     url: '#projects'
     weight: 40
   - name: Conferences
