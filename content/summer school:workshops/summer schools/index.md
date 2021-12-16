@@ -32,8 +32,11 @@ slides: example
 
 I attended 
 
-1. The virtual Geoquant 2021, Geometry and Quantization  summer school that was organised by Freiburg University from 2 to 6 August 2021. I aslo particpated by presented my poster with the title 'Poisson Algebras I'
+1. The virtual Geoquant 2021, Geometry and Quantization  summer school that was organised by Freiburg University from 2 to 6 August 2021. I aslo particpated by presented my poster with the title 'Poisson Algebras I'.
+
 2.  The virtual $K$-Theory and Representation Theory from 19 to 23 July 2021.
+
 3.  The virtual finite and infinite-dimensional meeting on Lie groupoids, Poisson geometry and
+
 integrability workshop from 16 to 20 August 2021.
 
