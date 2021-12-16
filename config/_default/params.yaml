@@ -121,7 +121,7 @@ comments:
     show_count: true
   commento:
     url: ''
-search:
+search: true
   provider: Maram Alossaimi
   algolia:
     app_id: ''
