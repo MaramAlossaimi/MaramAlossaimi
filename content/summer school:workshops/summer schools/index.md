@@ -1,13 +1,11 @@
 ---
 title:  Geoquant 2021, Geometry and Quantization  summer school and conferenes
-summary: I attended The virtual Geoquant 2021, Geometry and Quantization  summer school that was organised by Freiburg University 
-
-from 2 to 6 August 2021. I aslo particpated by presented my poster with the title 'Poisson Algebras I'.
+summary: I attended The virtual Geoquant 2021, Geometry and Quantization  summer school that was organised by Freiburg University from 2 to 6 August 2021. I aslo particpated by presented my poster with the title 'Poisson Algebras I'.
 
 
 tags:
 
-date: "2016-04-27T00:00:00Z"
+date: "2021-08-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://math.uni.lu/geoquant/"
