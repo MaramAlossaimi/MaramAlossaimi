@@ -1,5 +1,5 @@
 ---
-title: Summer school
+title: Publication
 cms_exclude: true
 
 # View.
