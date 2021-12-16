@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD degree
+  - title: PhD's degree
     company: Sheffield University
     company_url: 'https://www.sheffield.ac.uk'
     company_logo: org-gc
@@ -54,7 +54,7 @@ experience:
     date_end: '2017-10-20'
     description: I did my master degree.
   - title: Lecturer
-    company: University X
+    company: Imam Mohammad Ibn Saud Islamic University
     company_url: ''
     company_logo: org-x
     location: California
