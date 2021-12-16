@@ -38,7 +38,7 @@ experience:
         
   - title: Lecturer
     company: Imam Mohammad Ibn Saud Islamic University
-    company_url: ''
+    company_url: 'https://imamu.edu.sa/en/Pages/default.aspx'
     company_logo: org-x
     location: Saudi Arabia
     date_start: '2017-11-01'
