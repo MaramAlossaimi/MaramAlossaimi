@@ -36,7 +36,7 @@ experience:
         * Moarking
         * Training
         
-  - title: Professor of Semiconductor Physics
+  - title: Teaching
     company: University e
     company_url: 'https://www.sheffield.ac.uk'
     company_logo: org-x
