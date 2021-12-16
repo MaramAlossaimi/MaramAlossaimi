@@ -36,7 +36,5 @@ I attended
 
 2.  The virtual $K$-Theory and Representation Theory from 19 to 23 July 2021.
 
-3.  The virtual finite and infinite-dimensional meeting on Lie groupoids, Poisson geometry and
-
-integrability workshop from 16 to 20 August 2021.
+3.  The virtual finite and infinite-dimensional meeting on Lie groupoids, Poisson geometry and integrability workshop from 16 to 20 August 2021.
 
