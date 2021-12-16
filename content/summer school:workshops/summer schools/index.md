@@ -1,6 +1,10 @@
 ---
 title:  Geoquant 2021, Geometry and Quantization  summer school and conferenes
-summary: An example of using the in-built project page.
+summary: I attended The virtual Geoquant 2021, Geometry and Quantization  summer school that was organised by Freiburg University 
+
+from 2 to 6 August 2021. I aslo particpated by presented my poster with the title 'Poisson Algebras I'.
+
+
 tags:
 
 date: "2016-04-27T00:00:00Z"
@@ -29,8 +33,4 @@ url_video: "https://youtu.be/6ZXO8hd63kE"
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-I attended The virtual Geoquant 2021, Geometry and Quantization  summer school that was organised by Freiburg University 
-
-from 2 to 6 August 2021. I aslo particpated by presented my poster with the title 'Poisson Algebras I'.
 
