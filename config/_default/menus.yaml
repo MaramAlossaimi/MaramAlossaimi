@@ -13,21 +13,18 @@ main:
  - name: Teaching
     url: '#projects'
     weight: 30
-  - name: Projects
-    url: '#projects copy'
-    weight: 40
   - name: Conferenes
     url: '#talks'
-    weight: 50
+    weight: 40
   - name: Publications
     url: '#featured'
-    weight: 60
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 60
   - name: CV
     url: uploads/CV.pdf
-    weight: 80
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
