@@ -37,7 +37,7 @@ experience:
         * Training
         
   - title: Teaching 
-    company: Imam Mohammad Ibn Saud Islamic University
+    company: 
     company_url: ''
     company_logo: org-x
     location: Saudi Arabia
