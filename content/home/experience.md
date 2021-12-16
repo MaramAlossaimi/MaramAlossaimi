@@ -47,7 +47,7 @@ experience:
     
   - title: Master's degree
     company: Manchester University 
-    company_url: ''
+    company_url: 'https://www.manchester.ac.uk'
     company_logo: org-x
     location: UK
     date_start: '2016-09-20'
