@@ -1,5 +1,5 @@
 ---
-title: Summer school 1
+title: Summer schools
 summary: An example of using the in-built project page.
 tags:
 
