@@ -14,14 +14,14 @@ organizations:
   url: https://www.sheffield.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is classifying a special case of the Poisson algebra class $$A = (K[t]; \alpha, \beta, c, u)$$ that is polynomial Poisson algebra in two variables x and y with cofficients in a polynomial Poisson algebra K[t].
+bio: My research is classifying a special case of the Poisson algebra class $A = (K[t]; \alpha, \beta, c, u)$ that is a polynomial Poisson algebra in two variables $x$ and $y$ with cofficients in a polynomial Poisson algebra $K[t]$.
 # Interests to show in About widget
 interests:
-- Traveling.
-- Enjoy puzzles.
-- Taking photos.
-- Making friends.
-- Reading books.
+- Travelling
+- Enjoy puzzles
+- Taking photos
+- Making friends
+- Reading books
 
 # Education to show in About widget
 education:
@@ -70,5 +70,5 @@ email: "maram.alosaimi@gmail.com"
 highlight_name: true
 ---
 
-I am a PhD student and my research  is about classifying a special case of the Poisson algebra class $A = (K[t]; \alpha, \beta, c, u)$ that is polynomial Poisson algebra in two variables $x$ and $y$ with cofficients in a polynomial Poisson algebra $K[t]$.
+I am a PhD student and my research  is about classifying a special case of the Poisson algebra class $A = (K[t]; \alpha, \beta, c, u)$ that is a polynomial Poisson algebra in two variables $x$ and $y$ with cofficients in a polynomial Poisson algebra $K[t]$.
 
