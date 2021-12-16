@@ -6,7 +6,7 @@ title: Maram Alossaimi
 superuser: true
 
 # Role/position/tagline
-role: PhD students
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -17,7 +17,7 @@ organizations:
 bio: My research is classifying a special case of the Poisson algebra class $$A = (K[t]; \alpha, \beta, c, u)$$ that is polynomial Poisson algebra in two variables x and y with cofficients in a polynomial Poisson algebra K[t].
 # Interests to show in About widget
 interests:
--  Traveling.
+- Traveling.
 - Enjoy puzzles.
 - Taking photos.
 - Making friends.
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Poisson Algebras and it spertura
     institution: The University of Sheffield, United Kingdom
-    year: 2022
+    year: 2018-2022
   - course: MSc in Pure Mathematics and Mathematical Logic
 
     institution: The University of Manchester, United Kingdom
