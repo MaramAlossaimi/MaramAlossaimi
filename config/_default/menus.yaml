@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Posters
-    url: '#posts'
+    url: '#posters'
     weight: 20
   - name: Projects
     url: '#projects'
@@ -20,7 +20,7 @@ main:
     url: '#talks'
     weight: 50
   - name: Summer school/Workshop
-    url: '#projects copy'
+    url: '#summer school:workshops'
     weight: 60
   - name: Publications
     url: '#featured'
