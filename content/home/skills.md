@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 70%
   icon: Times
-  icon_pack: fab
+  icon_pack: fas
   name: Time Management 
 - description: 80%
   icon: chart-line
