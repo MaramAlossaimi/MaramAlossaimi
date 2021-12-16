@@ -22,10 +22,11 @@ bio: I am intersted in Poisson algebras, non-commutative algebras and Poisson pr
     algebras and some of simple Poisson finite dimensional $A$-modules. We present the containment from Poisson prime ideals for each subcase in figures. This work has been done under the supervision of Prof. Vladimir Bavula.
 # Interests to show in About widget
 interests:
-- Rings thoery
+- Group Theory
+- Rings Theory
 - Commutative Algebras
-- Poisson algebras
-- Algebras
+- Poisson Algebras
+- Non-commutative Algebras
 
 # Education to show in About widget
 education:
