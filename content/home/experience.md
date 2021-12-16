@@ -42,7 +42,7 @@ experience:
     company_logo: org-x
     location: California
     date_start: '2013-11-01'
-    date_end: '2014-04-31'
+    date_end: '2014-04-28'
     description: Taught mathematics and statistic.
     
   - title: Professor of Semiconductor Physics
