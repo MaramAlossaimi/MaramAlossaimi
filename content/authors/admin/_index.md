@@ -28,14 +28,14 @@ education:
   courses:
   - course: PhD in Poisson Algebras and it spertura
     institution: The University of Sheffield, United Kingdom
-    year: 2018 - 2022
+    year: 2018-2022
   - course: MSc in Pure Mathematics and Mathematical Logic
 
     institution: The University of Manchester, United Kingdom
-    year:2016 - 2017
+    year:2016-2017
   - course: BSc in  Mathematics
     institution: The University of King Saud, Saudi Arabia
-    year: 2008 -- 2012
+    year: 2008--2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
