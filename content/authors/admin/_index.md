@@ -77,8 +77,8 @@ highlight_name: true
 
 I am intersted in Poisson algebras, non-commutative algebras and Poisson prime ideals.
 
-    My research is about classifying a special case of the Poisson algebra class $A = (K[t]; \alpha, \beta, c, u)$ that is a polynomial Poisson algebra in two variables $x$ and $y$ with cofficients in a polynomial Poisson algebra $K[t]$ 
-    in one variable $t$. We classified class $A = K[t][x,y]$, over an algebraic closure field $K$ with zero characteristic. We concluded that there are three main cases and each subcase consists of several subcases. 
-    We are interested in the Poisson spectra, maximal and minimal Poisson prime ideals for Poisson algebra A in each subcase. So, we classify all the Poisson prime ideals for these subcases to study properties of their Poisson enveloping 
-    algebras and some of simple Poisson finite dimensional $A$-modules. We present the containment from Poisson prime ideals for each subcase in figures. This work has been done under the supervision of Prof. Vladimir Bavula.
+My research is about classifying a special case of the Poisson algebra class $A = (K[t]; \alpha, \beta, c, u)$ that is a polynomial Poisson algebra in two variables $x$ and $y$ with cofficients in a polynomial Poisson algebra $K[t]$ 
+in one variable $t$. We classified class $A = K[t][x,y]$, over an algebraic closure field $K$ with zero characteristic. We concluded that there are three main cases and each subcase consists of several subcases. 
+We are interested in the Poisson spectra, maximal and minimal Poisson prime ideals for Poisson algebra A in each subcase. So, we classify all the Poisson prime ideals for these subcases to study properties of their Poisson enveloping 
+algebras and some of simple Poisson finite dimensional $A$-modules. We present the containment from Poisson prime ideals for each subcase in figures. This work has been done under the supervision of Prof. Vladimir Bavula.
 
