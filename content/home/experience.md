@@ -37,7 +37,7 @@ experience:
         * Training
         
   - title: Lecturer
-    company: University e
+    company: Imam Mohammad Ibn Saud Islamic University
     company_url: ''
     company_logo: org-x
     location: California
