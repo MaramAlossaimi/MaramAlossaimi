@@ -36,14 +36,14 @@ experience:
         * Moarking
         * Training
         
-  - title: Teaching 
-    company: ffff
+  - title: Professor of Semiconductor Physics
+    company: University e
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2017-11-01'
-    date_end: '2018-7-31'
-    description: Taught mathematics and statistic.
+    date_start: '2013-01-01'
+    date_end: '2014-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
     
   - title: Professor of Semiconductor Physics
     company: University e
