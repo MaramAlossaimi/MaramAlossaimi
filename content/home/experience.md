@@ -54,18 +54,6 @@ experience:
     date_end: '2017-10-20'
     description: I did my master degree.
 
- - title: Lecturer
-    company: Imam Mohammad Ibn Saud Islamic University
-    company_url: 'https://imamu.edu.sa/en/Pages/default.aspx'
-    company_logo: org-gc
-    location: Saudi Arabia
-    date_start: '2013-07-01'
-    date_end: '2014-08-28'
-    description: Taught mathematics and statistic.
-
-design:
-  columns: '2' 
-
 design:
   columns: '2' 
   
