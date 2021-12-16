@@ -14,11 +14,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
+
 url_code: ""
 url_pdf: "http://home.mathematik.uni-freiburg.de/GEOQUANT2021/school/Files/waldmann-notes.pdf"
 url_slides: ""
