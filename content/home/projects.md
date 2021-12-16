@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
+  - name: 
     tag: 
-  - name: Other
+  - name: 
     tag: 
 
 design:
