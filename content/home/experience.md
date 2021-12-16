@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: UK
-    date_start: '2021-10-01'
+    date_start: '2018-10-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -37,13 +37,13 @@ experience:
         * Training
         
   - title: Teaching 
-    company:  Imam University
-    company_url: ''
+    company:  Imam Mohammad Ibn Saud Islamic University
+    company_url: 'https://imamu.edu.sa/en/Pages/default.aspx'
     company_logo: org-x
     location: Saudi Arabia
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught mathamtesisc.
+    date_start: '2017-11-01'
+    date_end: '2018-7-31'
+    description: Taught mathematics and statistic.
     
   - title: Professor of Semiconductor Physics
     company: University e
