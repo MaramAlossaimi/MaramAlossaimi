@@ -37,7 +37,7 @@ experience:
         * Training
         
   - title: Teaching 
-    company:  Imam Mohammad Ibn Saud Islamic University
+    company: Imam Mohammad Ibn Saud Islamic University
     company_url: 'https://imamu.edu.sa/en/Pages/default.aspx'
     company_logo: org-x
     location: Saudi Arabia
