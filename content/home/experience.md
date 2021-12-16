@@ -37,10 +37,10 @@ experience:
         * Training
         
   - title: Teaching 
-    company: 
+    company: ffff
     company_url: ''
     company_logo: org-x
-    location: Saudi Arabia
+    location: California
     date_start: '2017-11-01'
     date_end: '2018-7-31'
     description: Taught mathematics and statistic.
