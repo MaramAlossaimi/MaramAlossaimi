@@ -19,3 +19,5 @@ title: Biography
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
