@@ -43,7 +43,7 @@ experience:
     location: California
     date_start: '2017-11-01'
     date_end: '2018-7-31'
-    description: Taught mathematics and statistic.
+    description: Taught electronic engineering and researched semiconductor physics.
     
   - title: Professor of Semiconductor Physics
     company: University e
