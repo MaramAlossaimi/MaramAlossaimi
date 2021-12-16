@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: PhD Student
     company: Sheffield University
-    company_url: ''
+    company_url: 'https://www.sheffield.ac.uk'
     company_logo: org-gc
     location: UK
     date_start: '2018-10-01'
@@ -38,7 +38,7 @@ experience:
         
   - title: Lecturer
     company: University e
-    company_url: 'https://www.sheffield.ac.uk'
+    company_url: ''
     company_logo: org-x
     location: California
     date_start: '2013-01-01'
