@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: Times
+  icon: watch
   icon_pack: fas
   name: Time Management 
 - description: 80%
