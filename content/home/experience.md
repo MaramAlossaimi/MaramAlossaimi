@@ -40,9 +40,9 @@ experience:
     company: Imam Mohammad Ibn Saud Islamic University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2013-11-01'
-    date_end: '2014-04-28'
+    location: Saudi Arabia
+    date_start: '2017-11-01'
+    date_end: '2018-07-28'
     description: Taught mathematics and statistic.
     
   - title: Professor of Semiconductor Physics
