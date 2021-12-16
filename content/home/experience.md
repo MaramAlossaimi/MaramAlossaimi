@@ -45,23 +45,26 @@ experience:
     date_end: '2018-07-28'
     description: Taught mathematics and statistic.
     
-  - title: Master degree
+  - title: Master's degree
     company: Manchester University 
     company_url: ''
     company_logo: org-x
     location: UK
     date_start: '2016-09-20'
-    date_end: '2017-10-30'
+    date_end: '2017-10-20'
     description: I did my master degree.
 
  - title: Lecturer
     company: Imam Mohammad Ibn Saud Islamic University
     company_url: 'https://imamu.edu.sa/en/Pages/default.aspx'
-    company_logo: org-x
+    company_logo: org-gc
     location: Saudi Arabia
     date_start: '2013-07-01'
     date_end: '2014-08-28'
     description: Taught mathematics and statistic.
+
+design:
+  columns: '2' 
 
 design:
   columns: '2' 
