@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD
+  - title: PhD Student
     company: Sheffield University
     company_url: ''
     company_logo: org-gc
@@ -36,7 +36,7 @@ experience:
         * Moarking
         * Training
         
-  - title: Teaching
+  - title: Lecturer
     company: University e
     company_url: 'https://www.sheffield.ac.uk'
     company_logo: org-x
