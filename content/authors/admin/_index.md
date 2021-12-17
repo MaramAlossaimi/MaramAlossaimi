@@ -57,9 +57,8 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/maram-alossaimi-45a6a1207/
 - icon =  researchgate
-  link = "https://www.researchgate.net?u={url}&t={title}"
   icon_pack = fab
-  
+  link = https://www.researchgate.net/profile/Maram_Alossaimi
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
