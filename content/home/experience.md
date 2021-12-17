@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Teaching
-        * Moarking
+        * Marking
         * Training
         
   - title: Lecturer
