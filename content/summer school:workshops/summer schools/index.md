@@ -12,8 +12,8 @@ address:
   postcode: '94305'
   country: United States
   
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-06-01T13:00:00Z"
+date_end: "2021-06-01T15:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
