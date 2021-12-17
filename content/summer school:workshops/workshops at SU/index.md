@@ -16,6 +16,10 @@ links:
 - icon: GitHub
   icon_pack: fab
   name: GitHub
+  url: https://github.com
+- icon: website
+  icon_pack: fab
+  name: Website
   url: https://srse-git-github-zero2hero.netlify.app/00-intro-to-version-control/03-what-is-github/
 url_code: ""
 url_pdf: ""
