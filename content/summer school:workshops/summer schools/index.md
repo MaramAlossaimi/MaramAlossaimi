@@ -4,7 +4,14 @@ summary: Poisson Geometry and quantum groups with their applications in physics,
 
 
 tags:
-location: Sakarya, Turkey
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
+  
 date: "2021-08-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
