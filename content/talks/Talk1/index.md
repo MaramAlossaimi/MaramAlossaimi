@@ -39,10 +39,8 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
->>>>>>> master
 address:
   city: Stanford
-<<<<<<< HEAD
   country: France
   
 # Markdown Slides (optional).
