@@ -34,7 +34,7 @@ image:
 links:
 url_code: ""
 url_pdf: "uploads/1.pdf"
-url_slides: "uploads/1.pdf"
+url_cite: "https://www.tandfonline.com/doi/full/10.1080/00927870500454463"
 url_video: ""
   
 # Markdown Slides (optional).
