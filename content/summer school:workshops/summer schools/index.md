@@ -25,7 +25,7 @@ url_code: ""
 url_pdf: "http://home.mathematik.uni-freiburg.de/GEOQUANT2021/school/Files/waldmann-notes.pdf"
 url_slides: ""
 url_video: "https://youtu.be/6ZXO8hd63kE"
-
+location: UK
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
