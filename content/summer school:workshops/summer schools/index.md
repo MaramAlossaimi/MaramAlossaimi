@@ -4,7 +4,7 @@ summary: Poisson Geometry and quantum groups with their applications in physics
 
 
 tags:
-
+location: Sakarya, Turkey
 date: "2021-08-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
