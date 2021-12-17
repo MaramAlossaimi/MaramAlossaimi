@@ -7,7 +7,7 @@ event_url: http://www.iecmsa.org
 location: France
 
 title: Polynomial Poisson Algebras talk
-abstract: "The concept of Poisson algebra is one of the most important concepts in math- ematics that make a link between commutative and noncommutative algebra. The Poisson algebra D can be defined as an algebra over a field K with Poisson bracket {,} such that (D,{,}) is satisfying anti-commutative, Jacobi identity and Leibniz rule. In this talk, I will give the definition of Poisson algebra, talk about some related concepts of polynomial Poisson algebras and give some examples."
+abstract: The concept of Poisson algebra is one of the most important concepts in math- ematics that make a link between commutative and noncommutative algebra. The Poisson algebra D can be defined as an algebra over a field K with Poisson bracket {,} such that (D,{,}) is satisfying anti-commutative, Jacobi identity and Leibniz rule. In this talk, I will give the definition of Poisson algebra, talk about some related concepts of polynomial Poisson algebras and give some examples.
 location: France
 date: 2021-08-25T13:00:00.000Z
 date_end: 2021-08-25T15:00:00.000Z
@@ -39,6 +39,12 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+>>>>>>> master
+address:
+  city: Stanford
+<<<<<<< HEAD
+  country: France
+  
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
