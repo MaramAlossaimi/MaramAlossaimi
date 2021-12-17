@@ -30,6 +30,6 @@ url_video: "https://downloads.sms.cam.ac.uk/3713305/3713345.mp4"
 #   Otherwise, set `slides = ""`.
 
 ---
-![1](https://drive.google.com/file/d/17XyZTJW62QnnTf5qveCScI3PaWLkzGxd/view?usp=sharing)
+
 I attended the power of women in deep learning workshop in Isaac Newton Institute, Cambridge, UK from
 22 to 23 November 2021. They also gave me a chance to present my poster with the title ’Possion algebras I’.
