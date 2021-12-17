@@ -48,7 +48,7 @@ url_video: ""
 ---
 ### Abstract:
  Let $B$ be a Poisson algebra $C[x,y,z]$ with Poisson bracket ${y,x}=c_1 xy+\rho_1,$
- ${z,x}=c_2 xz+\rho_2,$   ${%=z,y%}=c_3 xy+\rho_3$, where  $c_i, \rho_i \in C$  and $i=1,2,3$. 
+ ${z,x}=c_2 xz+\rho_2,$   ${\{z,y\}=c_3xy+\rho_3}$, where  $c_i, \rho_i \in C$  and $i=1,2,3$. 
  We can obtain an iterated skew polynomial algebra such that its semiclassical limit is equal to $B$. 
  In this talk I will give some definitions, theorems and examples.
 
