@@ -33,7 +33,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: "uploads/1.pdf"
 url_slides: "uploads/1.pdf"
 url_video: ""
   
