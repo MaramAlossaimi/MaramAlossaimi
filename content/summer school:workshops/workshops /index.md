@@ -12,6 +12,10 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+  
 links:
 - icon: website
   icon_pack: fab
