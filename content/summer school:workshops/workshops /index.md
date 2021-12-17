@@ -1,9 +1,9 @@
 ---
-title: Workshops
-summary: An example of using the in-built project page.
+title: The power of women in deep learning workshop
+summary: Applications in maths
 tags:
 
-date: "2016-04-27T00:00:00Z"
+date: "2021-11-23T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,22 +13,22 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: website
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Website
+  url: https://www.newton.ac.uk/event/MDLW04/
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://downloads.sms.cam.ac.uk/3713305/3713345.mp4"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+
 ---
 
-4. The power of women in deep learning workshop in Isaac Newton Institute, Cambridge from
-22 to 23 November 2021. I also presented my poster with the title ’Possion algebras I’.
+I attended the power of women in deep learning workshop in Isaac Newton Institute, Cambridge, UK from
+22 to 23 November 2021. They also gave me a chance to present my poster with the title ’Possion algebras I’.
