@@ -1,5 +1,5 @@
 ---
-title: I teach MAS003
+title: Core Foundation Mathematics MAS003
 summary: An example of using the in-built project page.
 tags:
 -
