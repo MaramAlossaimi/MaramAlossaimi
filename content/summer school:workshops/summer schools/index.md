@@ -15,6 +15,7 @@ address:
 date: "2021-06-01T13:00:00Z"
 date_end: "2021-06-01T15:00:00Z"
 
+publishDate: "2018-01-01T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
