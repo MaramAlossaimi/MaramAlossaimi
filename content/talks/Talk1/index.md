@@ -34,7 +34,7 @@ image:
 links:
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "uploads/1.pdf"
 url_video: ""
   
 # Markdown Slides (optional).
