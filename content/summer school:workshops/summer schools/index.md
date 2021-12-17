@@ -14,6 +14,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+location: UK
 
 links:
 - icon: Website
