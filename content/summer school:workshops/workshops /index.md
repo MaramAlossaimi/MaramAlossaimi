@@ -10,7 +10,7 @@ external_link: ""
 
 image:
   caption: Poster showcase
-  focal_point: 
+  focal_point: Smart
 
   
 links:
