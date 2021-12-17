@@ -1,5 +1,5 @@
 ---
-title: Git & GitHub through GitKraken, from Zero to Hero workshop
+title: The Git and GitHub through GitKraken, from Zero to Hero workshop
 summary: Training on GitHub, virtual, 9 December 2021.
 tags:
 
@@ -29,4 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 
 ---
-
+I attended the virtual Git and GitHub through GitKraken, from Zero to Hero workshop that was organised by Sheffield University. It was very useful and well explained. 
+I learnt how I use GitKraken and how I can build up a website on Github that is based on GitKraken.
