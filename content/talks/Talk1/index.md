@@ -21,7 +21,7 @@ date_end: 2021-08-25T15:00:00Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-08-25T00:00:00Z
+publishDate: "2021-08-25T00:00:00Z"
 summary: An example talk using Wowchemy's Markdown slides feature.
 authors: []
 tags: []
@@ -52,4 +52,6 @@ slides: example
 
 
 ---
+# Abstract:
+ The concept of Poisson algebra is one of the most important concepts in math- ematics that make a link between commutative and noncommutative algebra. The Poisson algebra D can be defined as an algebra over a field K with Poisson bracket {,} such that (D,{,}) is satisfying anti-commutative, Jacobi identity and Leibniz rule. In this talk, I will give the definition of Poisson algebra, talk about some related concepts of polynomial Poisson algebras and give some examples.
 
