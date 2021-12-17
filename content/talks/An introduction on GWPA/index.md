@@ -16,8 +16,8 @@ abstract: "The concept of Poisson algebra is one of the most important concepts 
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2017-01-01T00:00:00Z"
-
+#publishDate: "2021-10-01T00:00:00Z"
+ <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
 authors: []
 tags: [GWPA]
 
