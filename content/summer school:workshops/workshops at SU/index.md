@@ -1,6 +1,6 @@
 ---
-title: Git & GitHub through GitKraken, from Zero to Hero!
-summary: Training on GitHub
+title: Git & GitHub through GitKraken, from Zero to Hero workshop
+summary: Training on GitHub, virtual, 9 December 2021.
 tags:
 
 date: "2016-04-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ..
   focal_point: Smart
 
 links:
