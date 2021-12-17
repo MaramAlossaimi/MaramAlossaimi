@@ -28,7 +28,7 @@ tags: [Poisson algebras]
 featured: false
 
 image:
-  caption: 'Image credit: [](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: '[](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: smart
 
 links:
