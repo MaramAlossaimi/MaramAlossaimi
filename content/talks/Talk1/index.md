@@ -34,7 +34,7 @@ image:
 links:
 url_code: ""
 url_pdf: "uploads/1.pdf"
-url_cite: "https://www.tandfonline.com/doi/full/10.1080/00927870500454463"
+url_Cite: "https://www.tandfonline.com/doi/full/10.1080/00927870500454463"
 url_video: ""
   
 # Markdown Slides (optional).
@@ -42,7 +42,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+
 
 
 ---
