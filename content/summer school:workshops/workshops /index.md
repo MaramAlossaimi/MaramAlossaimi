@@ -1,6 +1,6 @@
 ---
 title: The power of women in deep learning workshop
-summary: Applications in maths
+summary: Applications in maths, Cambridge, UK, 22-23 November 2021.
 tags:
 
 date: "2021-11-23T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2021-11-23T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Poster showcase
   focal_point: Smart
 
 image:
