@@ -30,7 +30,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "uploads/2.pdf"
+url_pdf: "uploads/3.pdf"
 url_slides: ""
 url_video: ""
 
