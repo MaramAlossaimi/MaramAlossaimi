@@ -19,7 +19,7 @@ all_day: false
 #publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: [GWPA]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -30,8 +30,8 @@ image:
 
 links:
 url_code: ""
-url_pdf: "/Users/maram/Documents/Website1/static/uploads/1.pdf"
-url_slides: "/Users/maram/Documents/Website1/static/uploads/1.pdf"
+url_pdf: "uploads/2.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
