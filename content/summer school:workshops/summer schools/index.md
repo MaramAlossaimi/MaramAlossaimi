@@ -17,6 +17,7 @@ image:
 
 url_webite: "https://math.uni.lu/geoquant/"
 url_pdf: "http://home.mathematik.uni-freiburg.de/GEOQUANT2021/school/Files/waldmann-notes.pdf"
+url_slides: ""
 url_video: "https://youtu.be/6ZXO8hd63kE"
 
 # Slides (optional).
