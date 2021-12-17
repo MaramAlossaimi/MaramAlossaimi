@@ -13,7 +13,7 @@ abstract: "The concept of Poisson algebra is one of the most important concepts 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-10-20T13:00:00Z"
 #date_end: "2021-10-20T15:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: "2017-01-01T00:00:00Z"
