@@ -11,7 +11,7 @@ abstract: "The concept of Poisson algebra is one of the most important concepts 
 location: France
 date: 2021-08-25T13:00:00.000Z
 date_end: 2021-08-25T15:00:00.000Z
-
+summary: An example talk using Wowchemy's Markdown slides feature.
 
 
 # Talk start and end times.
