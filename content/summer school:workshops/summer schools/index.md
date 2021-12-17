@@ -8,7 +8,7 @@ tags:
 date: "2021-08-02T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://math.uni.lu/geoquant/"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
