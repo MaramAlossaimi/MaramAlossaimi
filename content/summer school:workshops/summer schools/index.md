@@ -15,7 +15,12 @@ image:
   focal_point: Smart
 
 
-url_code: "https://math.uni.lu/geoquant/"
+links:
+- icon: Website
+  icon_pack: fab
+  name: Website 
+  url: https://math.uni.lu/geoquant/
+url_code: ""
 url_pdf: "http://home.mathematik.uni-freiburg.de/GEOQUANT2021/school/Files/waldmann-notes.pdf"
 url_slides: ""
 url_video: "https://youtu.be/6ZXO8hd63kE"
