@@ -64,7 +64,7 @@ experience:
   - title: BSc' degree
     company:  King Saud University 
     company_url: 'https://ksu.edu.sa/en/'
-    company_logo: org-x
+    company_logo: KSU
     location: Saudi Arabia
     date_start: '2008-06-01'
     date_end: '2012-7-31'
