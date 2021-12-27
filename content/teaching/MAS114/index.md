@@ -1,6 +1,6 @@
 ---
-title:  Numbers and Groups 
-summary: I gave tutorial classes and marked in 
+title:  Numbers and Groups MAS114
+summary: I gave tutorial classes and marked  Homeworks in 
 tags:
 
 date: "2020-09-27T00:00:00Z"
