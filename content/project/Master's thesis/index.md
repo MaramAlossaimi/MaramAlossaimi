@@ -1,7 +1,7 @@
 ---
 title: The Leech Lattice and Conway groups
 summary: Classification finite simple groups  
-tags:
+tags: Group Theory
 
 date: "2017-09-27T00:00:00Z"
 
