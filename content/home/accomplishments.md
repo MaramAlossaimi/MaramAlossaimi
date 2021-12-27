@@ -48,7 +48,7 @@ item:
   organization_url: https://sites.google.com/view/yrm-2021
   title: 'The second Best Poster'
   url: ""
-  - certificate_url: uploads/YRM.pdf
+- certificate_url: uploads/YRM.pdf
   date_end: ""
   date_start: "2021-06-07"
   description: "I got a second winner by a virtual poster with the title ’Poisson algebra I’"
