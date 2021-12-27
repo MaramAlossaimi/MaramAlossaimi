@@ -6,7 +6,7 @@ title: Maram Alossaimi
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Non-commutative algebras
+role: PhD student in Non-commutative algebras, Poisson Algebras
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -49,7 +49,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/maram__os
+  link: https://twitter.com/AlossaimiMaram
 - icon: github
   icon_pack: fab
   link: https://github.com/MaramAlossaimi
