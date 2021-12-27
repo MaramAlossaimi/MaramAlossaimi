@@ -4,13 +4,13 @@ summary: Poisson Geometry and quantum groups with their applications in physics,
 
 
 tags:
-location: Wowchemy HQ
+location: Freiburg University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: Freiburg
+  region: 
+  postcode: ''
+  country: Germany
   
 date: "2021-08-01T13:00:00Z"
 date_end: "2021-08-01T15:00:00Z"
