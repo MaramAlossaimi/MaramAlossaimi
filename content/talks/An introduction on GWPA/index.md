@@ -1,7 +1,7 @@
 ---
 title: An Introduction in Generalized Weyl Poisson Algebras talk
 
-event:  the 8th International Congress on Fundamental and Applied Sciences
+event:  The 8th International Congress on Fundamental and Applied Sciences
 event_url: http://icfas2021.intsa.org/index.html
 
 location: Antalya, Turkey
@@ -11,12 +11,12 @@ summary: I gave a virtua short talk at the 8th International Congress on Fundame
 abstract: "The concept of Poisson algebra is one of the most important concepts in mathematics that make a link between commutative and noncommutative algebra. The Poisson algebra D can be defined as an algebra over a field K with Poisson bracket {,} such that (D,{,}) is satisfying anti-commutative, Jacobi identity and Leibniz rule. In this talk, I will give the definition of Poisson algebra, talk about some related concepts of polynomial Poisson algebras and give some examples."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: Mon 20 Aug 2021
-#date_end: "2021-10-20T15:00:00Z"
+date: Mon 19 Oct 2021
+#date_end: "2021-10-19T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2021-10-01"
+#publishDate: "2021-10-019"
 
 authors: [Maram Alossaimi]
 tags: [GWPA]
