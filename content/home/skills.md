@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 70%
   icon: puzzle-piece
-  icon_pack: fan
+  icon_pack: fab
   name: Puzzles
 - description: 80%
   icon: chart-line
