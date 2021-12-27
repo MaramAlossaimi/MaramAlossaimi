@@ -11,7 +11,7 @@ summary: I gave a virtua short talk at the LMS Graduate Student Meeting, 8 Novem
 abstract: "The concept of Poisson algebra is one of the most important concepts in mathematics that make a link between commutative and noncommutative algebra. The Poisson algebra D can be defined as an algebra over a field K with Poisson bracket {,} such that (D,{,}) is satisfying anti-commutative, Jacobi identity and Leibniz rule. In this talk, I will give the definition of Poisson algebra, talk about some related concepts of polynomial Poisson algebras and give some examples."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`
-date: "2021-11-8T13:00:00Z"
+date: "2021-11-08T13:00:00Z"
 #date_end: "2021-11-08T15:00:00Z"
 all_day: false
 
