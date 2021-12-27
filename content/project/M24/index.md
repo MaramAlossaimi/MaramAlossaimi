@@ -1,7 +1,7 @@
 ---
 title: The Mathieu group $M_{24}$
 summary: Classification Finite simple groups 
-tags: 
+tags: Group Theory
 
 date: "2017-04-27T00:00:00Z"
 
