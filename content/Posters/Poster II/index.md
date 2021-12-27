@@ -8,10 +8,10 @@ summary: I classified a  part of the  second case of Poisson algebra class $A$
 projects: [PhD thesis]
 
 # Date published
-date: "2022-12-13T00:00:00Z"
+date: "2021-12-13T00:00:00Z"
 
 # Date updated
-lastmod: "2022-12-13T00:00:00Z"
+lastmod: "2021-12-13T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
