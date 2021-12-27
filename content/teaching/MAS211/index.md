@@ -1,6 +1,6 @@
 ---
-title: I marked MAS211
-summary: An example of using the in-built project page.
+title:  Advanced Calculus and Linear Algebra 
+summary: I marked Homeworks in Autumn semester 2021-2022 
 tags:
 
 date: "2016-04-27T00:00:00Z"
@@ -13,10 +13,6 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
