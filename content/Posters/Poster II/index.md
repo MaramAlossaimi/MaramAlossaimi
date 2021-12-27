@@ -47,7 +47,6 @@ with zero characteristic. There are three main cases of the classification of th
 minimal and maximal Poisson ideals of $A$. I present the first case of the classification in the poster called "Poisson Algebras I" and in this poster, 
 I  present a part of the second case of the classification and its Poisson spectrum.
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 
 
