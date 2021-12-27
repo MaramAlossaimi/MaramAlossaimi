@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -31,15 +31,7 @@ content:
     tag: Deep Learning
   - name: Other
     tag: Demo
-item:
-- url_pdf: uploads/KSU.pdf
-  date_end: "2012-06-06"
-  date_start: "2009-07-25"
-  description: "I got Distinguished Rewards several times during my Bachelor’s degree"
-  organization: The University of King Saud
-  organization_url: https://ksu.edu.sa/en/
-  title:  Distinguished Rewards
-  url: ""
+
   
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
