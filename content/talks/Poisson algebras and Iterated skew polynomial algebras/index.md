@@ -15,12 +15,12 @@ date: 2021-08-25T13:00:00.000Z
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-08-25T13:00:00Z
-#date_end: 2021-08-25T15:00:00Z
+date: 2021-10-25T13:00:00Z
+#date_end: 2021-10-25T15:00:00Z
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-08-25T00:00:00Z"
+publishDate: "2021-10-25T00:00:00Z"
 author: [admin]
 tags: [Iterated Poisson skew algebras]
 
