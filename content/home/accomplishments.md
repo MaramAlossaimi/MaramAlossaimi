@@ -32,7 +32,7 @@ item:
   title:  Distinguished Rewards
   url: ""
 - certificate_url: uploads/40.pdf
-  date_end: "2017-10-1"
+  date_end: "2017-10-01"
   date_start: "2016-09-01"
   description: I got Distinguished Rewards several times during my Bachelor’s degree
   organization: The Saudi Arabia Cultural Bureau 
