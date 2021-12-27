@@ -61,14 +61,14 @@ experience:
     date_start: '2013-07-01'
     date_end: '2014-08-29'
     description: Taught mathematics and statistic.
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: BSc' degree
+    company:  King Saud University 
+    company_url: 'https://ksu.edu.sa/en/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Saudi Arabia
+    date_start: '2008-06-01'
+    date_end: '2012-7-31'
+    description: I took some modules in Pure mathematics, Calculus, Analysis, Topology and some applied mathematics modules. In my final semester I did a short project in Topology. 
     
 design:
   columns: '2'
