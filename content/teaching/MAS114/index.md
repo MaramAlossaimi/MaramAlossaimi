@@ -1,6 +1,6 @@
 ---
 title:  Numbers and Groups MAS114
-summary: I gave tutorial classes as an assistant and marked  Homeworks in Autumn semester 2020-2021
+summary: I gave tutorial classes as an assistant  and marked  Homeworks in Autumn semester 2020-2021
 tags:
 
 date: "2020-09-27T00:00:00Z"
