@@ -42,12 +42,9 @@ tags:
 ## Abstrac
 
 A large class of Poisson algebras $A$ is a polynomial Poisson algebra in two variables $x$ and $y$ with coefficients 
-
 in a polynomial Poisson algebra in one variable $t$. I classified class $A$, over an algebraic closure field $K$ with zero
-
 characteristic, by using Lemma (Oh, 2006). I concluded that there are three main cases, and each case has several subcases.
-  
-Then I have found the Poisson spectrum of $A$ in each case. In this poster, I identify only the first case.
+  Then I have found the Poisson spectrum of $A$ in each case. In this poster, I identify only the first case.
 
 
 
