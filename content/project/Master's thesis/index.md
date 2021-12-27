@@ -28,7 +28,7 @@ url_video: ""
 
 In February 1981, a historic achievement was made by several hundred international mathematicians over a period of thirty years which was completing the 
 classification of finite simple groups. The most interesting of the finite simple groups are the twenty-six sporadic groups. The sporadic groups acquired 
-their name as they do not belong to any infinite family of finite simple groups. The first family of these are the Mathieu groups which consist of $M_{11}$, 
+their name as they do not belong to any infinite family of finite simple groups. The first family of these are the Mathieu groups which consist of $M_{11},$
 $M_{12}, M_{22}, M_{23}$ and $M_{24}$; which are permutation groups on $11, 12, 22, 23$ and $24$ points, respectively, and they were discovered by 
 Emile Mathieu in 1861. The second family are the Conway groups which are $Co_1$, $Co_2$ and $Co_3$, they may be considered as automorphism groups of the Leech lattice.
 They were discovered by John Horton Conway around 1968. Despite the fact that before then the Higman-Sims group $HS$ was discovered by D. G. Higman, C. C. Sims and
