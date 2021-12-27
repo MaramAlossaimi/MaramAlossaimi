@@ -26,10 +26,10 @@ item:
 - certificate_url: uploads/CV.pdf
   date_end: "2012-07-31"
   date_start: "2009-01-25"
-  description: "jjjjj"
+  description: "I got Distinguished Rewards several times during my Bachelor’s degree"
   organization: The University of King Saud
   organization_url: https://ksu.edu.sa/en/
-  title: Neural Networks and Deep Learning
+  title:  Distinguished Rewards
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
