@@ -6,7 +6,7 @@ tags:
 date: "2019-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://docs.google.com/document/d/1jw8U1Es8sfT4aX630zNK2ACppn4N2W0kBdk5-q8-puE/edit#heading=h.fga1cqk7xxqc"
 
 image:
   caption: Photo by rawpixel on Unsplash
