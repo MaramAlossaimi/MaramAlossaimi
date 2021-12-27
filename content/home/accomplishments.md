@@ -31,13 +31,13 @@ item:
   organization_url: https://ksu.edu.sa/en/
   title:  Distinguished Rewards
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+- certificate_url: uploads/40.pdf
+  date_end: "2017-10-1"
+  date_start: "2016-09-01"
+  description: I got Distinguished Rewards several times during my Bachelor’s degree
+  organization: The Saudi Arabia Cultural Bureau 
+  organization_url: https://uksacb.org/home-en/
+  title: Distinguished Rewards
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
