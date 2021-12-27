@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 #publishDate: "2021-011-08T00:00:00Z"
 
-authors: [Maram Alossaimi]
+tags: [Poisson algebras]
 tags: [Poisson prime ideals]
 
 # Is this a featured talk? (true/false)
