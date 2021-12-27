@@ -38,14 +38,14 @@ item:
   organization: The Saudi Arabia Cultural Bureau 
   organization_url: https://uksacb.org/home-en/
   title: Distinguished Rewards
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  url: " "
+- certificate_url: uploads/YRM.pdf
+  date_end: ""
+  date_start: "2021-06-07"
+  description: "I got a second winner by a virtual poster with the title ’Poisson algebra I’"
+  organization: The Young Researchers in Mathematics conference
+  organization_url: https://sites.google.com/view/yrm-2021
+  title: 'The second Best Poster'
   url: ""
 
 design:
