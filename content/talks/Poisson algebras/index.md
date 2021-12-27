@@ -20,7 +20,7 @@ all_day: false
 
 authors: [Maram Alossaimi]
 tags: [Poisson prime ideals]
-projects = [PhD thesis]
+
 # Is this a featured talk? (true/false)
 featured: false
 
