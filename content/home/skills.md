@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: clock
+  icon: puzzle
   icon_pack: fas
-  name: Time Management 
+  name: Puzzles
 - description: 80%
   icon: chart-line
   icon_pack: fas
