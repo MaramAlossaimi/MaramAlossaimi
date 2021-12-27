@@ -26,7 +26,7 @@ item:
 - certificate_url: uploads/CV.pdf
   date_end: "2012-07-31"
   date_start: "2009-01-25"
-  description: ""
+  description: "jjjjj"
   organization: The University of King Saud
   organization_url: https://ksu.edu.sa/en/
   title: Neural Networks and Deep Learning
