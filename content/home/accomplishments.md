@@ -43,18 +43,18 @@ item:
 - certificate_url: uploads/YRM.pdf
   date_end: ""
   date_start: "2021-06-07"
-  description: "I got a second winner by a virtual poster with the title ’Poisson algebra I’"
+  description: "I won  the second  virtual poster with the title ’Poisson algebra I’"
   organization: The Young Researchers in Mathematics conference
   organization_url: https://sites.google.com/view/yrm-2021
   title: 'The second Best Poster'
   url: ""
-- certificate_url: uploads/YRM.pdf
+- certificate_url: uploads/34.pdf
   date_end: ""
-  date_start: "2021-06-07"
-  description: "I got a second winner by a virtual poster with the title ’Poisson algebra I’"
-  organization: The Young Researchers in Mathematics conference
-  organization_url: https://sites.google.com/view/yrm-2021
-  title: 'The second Best Poster'
+  date_start: "2021-10-25"
+  description: "I won  the best virtual presentation with the title ’Poisson algebras and Iterated skew polynomial algebras’"
+  organization: The First International Conference on Mathematics and Computation
+  organization_url: https://sites.google.com/view/icmc2021/home?authuser=0
+  title: 'The Best presentation'
   url: ""
 
 design:
