@@ -67,7 +67,7 @@ experience:
     company_logo: KSU
     location: Saudi Arabia
     date_start: '2008-06-01'
-    date_end: '2012-7-31'
+    date_end: '2012-07-31'
     description: I took some modules in Pure mathematics, Calculus, Analysis, Topology and some applied mathematics modules. In my final semester I did a short project in Topology. 
     
 design:
