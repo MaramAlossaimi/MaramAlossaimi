@@ -23,7 +23,7 @@ date_format: 3 Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: uploads/CV.pdf
+- certificate_url: uploads/KSU.pdf
   date_end: "2012-07-31"
   date_start: "2009-01-25"
   description: "I got Distinguished Rewards several times during my Bachelor’s degree"
