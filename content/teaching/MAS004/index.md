@@ -1,12 +1,12 @@
 ---
-title: I teach and marked in MAS004 module at Sheffield University.
-summary: An example of using the in-built project page.
+title:  Further Foundation Mathematics MAS004
+summary: I gave tutorial classes and marked in 
 tags:
 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.sheffield.ac.uk/programmeregulationsfinder/unit?code=MAS004&org=SHEFFIELD&start=2014-09-29&loc=SHEFFIELD&cal=ACAD%20YR&year=2019"
 
 image:
   caption: Photo by rawpixel on Unsplash
