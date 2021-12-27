@@ -1,22 +1,18 @@
 ---
-title:  Advanced Calculus and Linear Algebra 
-summary: I marked Homeworks in Autumn semester 2021-2022 
+title:  Numbers and Groups 
+summary: I gave tutorial classes and marked in 
 tags:
 
-date: "2021-09-27T00:00:00Z"
+date: "2020-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.sheffield.ac.uk/programmeregulationsfinder/unit?code=MAS211&org=SHEFFIELD&start=29-Sep-2014&loc=SHEFFIELD&cal=AUT%20SEM&year=2020"
+external_link: "https://www.sheffield.ac.uk/programmeregulationsfinder/unit?code=MAS114&org=SHEFFIELD&start=26-Sep-2011&loc=SHEFFIELD&cal=ACAD%20YR&year=2020"
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
