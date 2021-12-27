@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: puzzle
+  icon: Puzzle Piece
   icon_pack: fas
   name: Puzzles
 - description: 80%
