@@ -18,7 +18,7 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "uploads/11.pdf"
 url_slides: ""
 url_video: ""
 
