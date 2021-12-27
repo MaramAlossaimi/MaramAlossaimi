@@ -25,7 +25,7 @@ experience:
   - title: PhD's degree
     company: Sheffield University
     company_url: 'https://www.sheffield.ac.uk'
-    company_logo: org-gc
+    company_logo: puzzle-piece
     location: UK
     date_start: '2018-10-01'
     date_end: ''
