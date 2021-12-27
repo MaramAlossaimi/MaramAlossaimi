@@ -13,14 +13,14 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
+ - name: Summer schools/Workshops
+    url: '#summer school:workshops'
+    weight: 40
   - name: Teaching
     url: '#teaching'
-    weight: 40
-  - name: Conferences
-    url: '#talks'
     weight: 50
-  - name: Summer school/Workshop
-    url: '#summer school:workshops'
+ - name: Conferences
+    url: '#talks'
     weight: 60
   - name: Publications
     url: '#featured'
