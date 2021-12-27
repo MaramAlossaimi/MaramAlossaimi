@@ -18,7 +18,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 #publishDate: "2021-10-19"
 
-authors: [Maram Alossaimi]
+tags: [Poisson algebras]
 tags: [GWPA]
 
 # Is this a featured talk? (true/false)
