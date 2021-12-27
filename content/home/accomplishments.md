@@ -24,8 +24,8 @@ date_format:  Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: uploads/KSU.pdf
-  date_end: "2012-07-31"
-  date_start: "2009-01-25"
+  date_end: "2012-06-06"
+  date_start: "2009-07-25"
   description: "I got Distinguished Rewards several times during my Bachelor’s degree"
   organization: The University of King Saud
   organization_url: https://ksu.edu.sa/en/
