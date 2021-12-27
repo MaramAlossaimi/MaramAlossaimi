@@ -32,7 +32,7 @@ content:
   - name: Other
     tag: Demo
 item:
-- Module_url: uploads/KSU.pdf
+-  url: uploads/KSU.pdf
   date_end: "2012-06-06"
   date_start: "2009-07-25"
   description: "I got Distinguished Rewards several times during my Bachelor’s degree"
