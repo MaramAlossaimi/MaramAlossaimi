@@ -18,7 +18,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 #publishDate: "2021-10-01"
 
-authors: []
+authors: [Maram Alossaimi]
 tags: [GWPA]
 
 # Is this a featured talk? (true/false)
