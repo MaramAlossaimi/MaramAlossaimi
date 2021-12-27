@@ -1,9 +1,9 @@
 ---
 title:  Further Foundation Mathematics MAS004
-summary: I gave tutorial classes and marked in 
+summary: I gave tutorial classes, marked  Homeworks and final exams in 
 tags:
 
-date: "2016-04-27T00:00:00Z"
+date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.sheffield.ac.uk/programmeregulationsfinder/unit?code=MAS004&org=SHEFFIELD&start=2014-09-29&loc=SHEFFIELD&cal=ACAD%20YR&year=2019"
@@ -13,10 +13,6 @@ image:
   focal_point: Smart
 
 links:
-- icon: 
-  icon_pack: 
-  name: 
-  url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
