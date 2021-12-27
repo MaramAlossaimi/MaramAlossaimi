@@ -34,7 +34,7 @@ item:
 - certificate_url: uploads/40.pdf
   date_end: "2017-10-01"
   date_start: "2016-09-01"
-  description: I got Distinguished Rewards several times during my Bachelor’s degree
+  description: I got Distinguished Rewards during my Master’s degree
   organization: The Saudi Arabia Cultural Bureau 
   organization_url: https://uksacb.org/home-en/
   title: Distinguished Rewards
