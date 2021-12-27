@@ -39,7 +39,7 @@ experience:
   - title: Lecturer
     company: Imam Mohammad Ibn Saud Islamic University
     company_url: 'https://imamu.edu.sa/en/Pages/default.aspx'
-    company_logo: org-x
+    company_logo: IMU
     location: Saudi Arabia
     date_start: '2017-11-01'
     date_end: '2018-07-28'
@@ -56,7 +56,7 @@ experience:
   - title: Lecturer
     company: Imam Mohammad Ibn Saud Islamic University
     company_url: 'https://imamu.edu.sa/en/Pages/default.aspx'
-    company_logo: org-x
+    company_logo: IMU
     location: Saudi Arabia
     date_start: '2013-07-01'
     date_end: '2014-08-29'
