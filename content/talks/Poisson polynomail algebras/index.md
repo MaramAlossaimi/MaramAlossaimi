@@ -1,7 +1,7 @@
 ---
 title: The Polynomial Poisson Algebras talk
 
-event: the 10th International Eurasian Conference on Mathematical Sciences and applications
+event: The 10th International Eurasian Conference on Mathematical Sciences and applications
 event_url: http://www.iecmsa.org
 
 
@@ -21,7 +21,7 @@ all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-08-25T00:00:00Z"
-author: [admin]
+author: []
 tags: [Poisson algebras]
 
 # Is this a featured talk? (true/false)
