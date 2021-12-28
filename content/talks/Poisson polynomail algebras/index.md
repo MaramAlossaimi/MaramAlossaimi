@@ -1,7 +1,7 @@
 ---
-title: The Polynomial Poisson Algebras talk
+title:  Polynomial Poisson Algebras Talk
 
-event: The 10th International Eurasian Conference on Mathematical Sciences and applications
+event: The $10^{th}$ International Eurasian Conference on Mathematical Sciences and applications
 event_url: http://www.iecmsa.org
 
 
@@ -28,13 +28,23 @@ tags: [Poisson algebras]
 featured: false
 
 image:
-  caption: '[](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: smart
 
 links:
+- icon: Pdf
+  icon_pack: fab
+  name: Slides
+  url: uploads/1.pdf
+
+
+- icon: Pdf
+  icon_pack: fab
+  name: Source
+  url: uploads/11.pdf
 url_code: ""
-url_pdf: "uploads/1.pdf"
-url_Cite: "https://www.tandfonline.com/doi/full/10.1080/00927870500454463"
+url_pdf: ""
+url_Cite: " "
 url_video: ""
   
 # Markdown Slides (optional).
@@ -52,7 +62,7 @@ url_video: ""
  and Leibniz rule. In this talk, I give the definition of Poisson algebra, talk about some related concepts of polynomial Poisson algebras and give some examples.
 
 ### Event: 
-[The 10th International Eurasian Conference on Mathematical Sciences and applications](http://www.iecmsa.org)
+[The $10^{th}$ International Eurasian Conference on Mathematical Sciences and applications](http://www.iecmsa.org)
 
 ### Location: 
 Sakarya, Turkey,  25-27 August 2021.
