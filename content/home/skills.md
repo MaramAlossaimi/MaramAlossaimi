@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: puzzle-piece
+  icon: 5
   icon_pack: fab
   name: Puzzles
 - description: 70%
@@ -28,10 +28,7 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
-- description: 30%
-  icon: Github
-  icon_pack: fas
-  name: Github
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
