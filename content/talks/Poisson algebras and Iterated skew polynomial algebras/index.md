@@ -1,5 +1,5 @@
 ---
-title: The Poisson algebras and Iterated skew polynomial algebras talk
+title: Poisson algebras and Iterated skew polynomial algebras Talk
 
 event: the First International Conference on Mathematics and Computation
 event_url: https://sites.google.com/view/icmc2021/home?authuser=0
@@ -32,8 +32,18 @@ image:
   focal_point: smart
 
 links:
+- icon: Pdf
+  icon_pack: fab
+  name: Slides
+  url: uploads/4.pdf
+
+
+- icon: Pdf
+  icon_pack: fab
+  name: Source
+  url: uploads/11.pdf
 url_code: ""
-url_pdf: "uploads/4.pdf"
+url_pdf: ""
 url_Cite: "https://www.tandfonline.com/doi/full/10.1080/00927870500454463"
 url_video: ""
   
