@@ -38,13 +38,15 @@ tags:
 links:
 - icon: Pdf
   icon_pack: fab
+  name: Case II
+  url: uploads/II.pdf
+  
+- icon: Pdf
+  icon_pack: fab
   name: Poster II
   url: uploads/111.pdf
 
-- icon: Pdf
-  icon_pack: fab
-  name: Case II
-  url: uploads/II.pdf
+
 ---
 
 
