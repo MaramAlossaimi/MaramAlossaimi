@@ -52,6 +52,6 @@ They were discovered by John Horton Conway around 1968. Despite the fact that be
 the McLaughlin group $McL$ was discovered by J. McLaughlin, they are contained in both $Co_2$ and $Co_3$. Meanwhile, the Suzuki group Suz  was discovered by Suzuki 
 and the Hall-Janko group $J_2= HJ$ was discovered by Hall-Janko which may be considered as subgroups of the first Conway group. Although the rest of the twenty-six sporadic
 groups are not discussed in this paper, we introduce them briefly. A century after finding Mathieu’s group, in 1966 Zvonimir Janko found the first Janko group $J_1$ 
-which has only 175560 elements. During the following decade a further twenty sporadic groups were discovered. In 1974, the largest group 
+which has only $175560$ elements. During the following decade a further twenty sporadic groups were discovered. In 1974, the largest group 
 of the sporadic groups, the Monster group $M$ or ($F_1$ Fischer-Griess group) was discovered by Fischer. Moerover, in 1980, Griess constructed this group 
-as an automorphism group of 196884 dimensional algebra that has remarkable commutative but non-associative elements and the order of $M$ was computed by Thompson.
+as an automorphism group of $196884$ dimensional algebra that has remarkable commutative but non-associative elements and the order of $M$ was computed by Thompson.
