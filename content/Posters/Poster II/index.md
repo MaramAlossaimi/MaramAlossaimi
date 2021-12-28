@@ -23,9 +23,9 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**Poster II**](https://drive.google.com/file/d/17XyZTJW62QnnTf5qveCScI3PaWLkzGxd/view?usp=sharing)'
-  focal_point: "smart"
+  focal_point: " "
   placement: 2
-  preview_only: true
+  preview_only: false
 
 
 
@@ -36,12 +36,15 @@ tags:
 
 authors:
 - admin
----
+
 links:
 - icon: Pdf
   icon_pack: fab
   name: Poster I
   url: uploads/111.pdf
+
+---
+
 
 
 ### Abstrac
