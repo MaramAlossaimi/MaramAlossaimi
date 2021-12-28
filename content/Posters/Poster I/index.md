@@ -45,6 +45,11 @@ links:
   icon_pack: fab
   name: Poster I
   url: uploads/1112.pdf
+
+- icon: Pdf
+  icon_pack: fab
+  name: Cite
+  url: uploads/17.pdf
 ---
 
 ### Abstrac
@@ -55,5 +60,11 @@ characteristic, by using Lemma (Oh, 2006). I concluded that there are three main
 Then I have found the Poisson spectrum of $A$ in each case. In this poster, I identify only the first case.
 
 
+### Event 
+I participated by presenting my poster in several conferences and workshops as an example
+
+1. The British Mathematical Colloquium (BMC) and the British Applied Mathematics Colloquium (BAMC), 6 to 9 April 2021.
+2. The Young Researchers in Mathematics conference, from 7 to 9 June 2021.
+3. The LMS Women in Mathematics Day, 16 June 2021.
 
 
