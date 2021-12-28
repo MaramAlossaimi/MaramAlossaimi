@@ -21,7 +21,7 @@ all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-10-25T00:00:00Z"
-author: [admin]
+author: []
 tags: [Iterated Poisson skew algebras]
 
 # Is this a featured talk? (true/false)
@@ -29,7 +29,7 @@ featured: false
 
 image:
   caption: '[](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  focal_point: smart
 
 links:
 url_code: ""
@@ -50,7 +50,7 @@ url_video: ""
  Let $B$ be a Poisson algebra $C[x,y,z]$ with Poisson bracket {$y,x$}$=c_1 xy+\rho_1,$
  {$z,x$}$=c_2 xz+\rho_2,$   {$z,y$}$=c_3xy+\rho_3$, where  $c_i, \rho_i \in C$  and $i=1,2,3$. 
  We can obtain an iterated skew polynomial algebra such that its semiclassical limit is equal to $B$. 
- In this talk I will give some definitions, theorems and examples.
+ In this talk I give some definitions, theorems and examples.
 
 ### Event: 
 [The First International Conference on Mathematics and Computation](https://sites.google.com/view/icmc2021/home?authuser=0)
