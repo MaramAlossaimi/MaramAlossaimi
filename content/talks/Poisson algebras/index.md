@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 #publishDate: "2021-011-08T00:00:00Z"
 
-tags: [Poisson algebras]
+tags: [Classification]
 tags: [Poisson prime ideals]
 
 # Is this a featured talk? (true/false)
@@ -39,6 +39,12 @@ links:
   icon_pack: fab
   name: Cite
   url: uploads/17.pdf
+
+links:
+- icon: Pdf
+  icon_pack: fab
+  name: Classification Figure
+  url: uploads/123.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
