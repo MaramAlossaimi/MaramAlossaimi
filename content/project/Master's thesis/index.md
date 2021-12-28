@@ -9,7 +9,7 @@ date: "2017-09-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption: Genetic relation between sporadic finite simple groups
   focal_point: Smart
 
 links:
