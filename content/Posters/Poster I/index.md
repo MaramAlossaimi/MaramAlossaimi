@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit:[**Poster I**](https://drive.google.com/file/d/17XyZTJW62QnnTf5qveCScI3PaWLkzGxd/view?usp=sharing)'
+  caption: 'Image credit: [**Poster I**](https://drive.google.com/file/d/17XyZTJW62QnnTf5qveCScI3PaWLkzGxd/view?usp=sharing)'
   focal_point: "smart"
   placement: 2
   preview_only: false
