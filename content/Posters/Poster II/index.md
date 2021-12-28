@@ -34,7 +34,8 @@ tags:
 - Poisson algebras
 - non-commutative algebras
 
-
+authors:
+- admin
 ---
 links:
 - icon: Pdf
