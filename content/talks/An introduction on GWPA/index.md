@@ -29,8 +29,18 @@ image:
   focal_point: smart
 
 links:
+- icon: Pdf
+  icon_pack: fab
+  name: Slides
+  url: uploads/2.pdf
+
+
+- icon: Pdf
+  icon_pack: fab
+  name: source
+  url: uploads/11.pdf
 url_code: ""
-url_pdf: "uploads/2.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
