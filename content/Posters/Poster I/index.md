@@ -60,11 +60,11 @@ characteristic, by using Lemma (Oh, 2006). I concluded that there are three main
 Then I have found the Poisson spectrum of $A$ in each case. In this poster, I identify only the first case.
 
 
-### Event 
+### Events 
 I participated by presenting my poster in several conferences and workshops as an example
 
-1. [The British Mathematical Colloquium (BMC) and the British Applied Mathematics Colloquium (BAMC)](https://sites.google.com/view/bmcbamc2021/home?authuser=0), 6 to 9 April 2021.
-2. [The Young Researchers in Mathematics conference](https://sites.google.com/view/yrm-2021/home?authuser=0), from 7 to 9 June 2021.
+1. [The British Mathematical Colloquium (BMC) and the British Applied Mathematics Colloquium (BAMC)](https://sites.google.com/view/bmcbamc2021/home?authuser=0), 6-9 April 2021.
+2. [The Young Researchers in Mathematics conference](https://sites.google.com/view/yrm-2021/home?authuser=0), 7 - 9 June 2021.
 3. [The LMS Women in Mathematics Day](https://www.strath.ac.uk/science/mathematicsstatistics/womeninmathsday/programme/), 16 June 2021.
 
 
