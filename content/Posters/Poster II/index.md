@@ -31,16 +31,14 @@ image:
 
 
 tags:
-- Poisson algebras
-- non-commutative algebras
-
-authors:
-- admin
+- Poisson spectrum algebras
+- Classification of Poisson algebra class $A$
+- CASE II.1
 
 links:
 - icon: Pdf
   icon_pack: fab
-  name: Poster I
+  name: Poster II
   url: uploads/111.pdf
 
 ---
