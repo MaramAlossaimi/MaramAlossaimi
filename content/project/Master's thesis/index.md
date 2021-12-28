@@ -13,6 +13,10 @@ image:
   focal_point: Smart
 
 links:
+- icon: Pdf
+  icon_pack: fab
+  name: Diagram
+  url: uploads/22.pdf
 url_code: ""
 url_pdf: "uploads/11.pdf"
 url_slides: 
