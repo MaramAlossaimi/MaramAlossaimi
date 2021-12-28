@@ -15,7 +15,7 @@ image:
 links:
 url_code: ""
 url_pdf: "uploads/11.pdf"
-url_pdf "uploads/22.pdf"
+url_slides "uploads/22.pdf"
 url_video: ""
 
 # Slides (optional).
