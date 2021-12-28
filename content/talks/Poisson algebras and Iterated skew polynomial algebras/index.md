@@ -41,10 +41,10 @@ links:
 - icon: Pdf
   icon_pack: fab
   name: Cite
-  url: uploads/11.pdf
+  url: uploads/15.pdf
 url_code: ""
 url_pdf: ""
-url_Cite: "https://www.tandfonline.com/doi/full/10.1080/00927870500454463"
+url_Cite: ""
 url_video: ""
   
 # Markdown Slides (optional).
