@@ -1,5 +1,5 @@
 ---
-title: The Poisson Algebras talk
+title: Poisson Algebras Talk
 
 event:  the LMS Graduate Student Meeting 
 event_url: 
@@ -25,8 +25,8 @@ tags: [Poisson prime ideals]
 featured: false
 
 image:
-  caption: '[](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: ''
+  focal_point: Smart
 
 links:
 - icon: Pdf
