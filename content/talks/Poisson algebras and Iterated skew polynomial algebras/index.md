@@ -66,4 +66,4 @@ url_video: ""
 [The First International Conference on Mathematics and Computation](https://sites.google.com/view/icmc2021/home?authuser=0)
 
 ### Location: 
-Rajkiya Engineering College Kannauj, India, 22-23 October 2021.
+Rajkiya Engineering College Kannauj, India, 22 - 23 October 2021.
