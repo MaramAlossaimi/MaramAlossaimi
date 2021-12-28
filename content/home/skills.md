@@ -17,17 +17,21 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: puzzle piece
+  icon: puzzle-piece
   icon_pack: fab
   name: Puzzles
-- description: 80%
+- description: 70%
   icon: chart-line
   icon_pack: fas
   name: Latex
-- description: 70%
+- description: 60%
   icon: camera-retro
   icon_pack: fas
   name: Photography
+- description: 30%
+  icon: Github
+  icon_pack: fas
+  name: Github
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
