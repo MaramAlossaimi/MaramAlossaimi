@@ -40,7 +40,6 @@ links:
   name: Cite
   url: uploads/17.pdf
 
-links:
 - icon: Pdf
   icon_pack: fab
   name: Classification Figure
