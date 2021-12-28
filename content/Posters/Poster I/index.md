@@ -25,16 +25,16 @@ image:
   caption: '[**Poster I**](https://drive.google.com/file/d/17XyZTJW62QnnTf5qveCScI3PaWLkzGxd/view?usp=sharing)'
   focal_point: "smart"
   placement: 2
-  preview_only: true
+  preview_only: false
 
 
 
 tags:
-- Poisson algebras
-- non-commutative algebras
+- Poisson spectrum algebras
+- Classification of Poisson algebra class $A$
+- CASE I
 
-authors:
-- admin
+
 
 
 links:
