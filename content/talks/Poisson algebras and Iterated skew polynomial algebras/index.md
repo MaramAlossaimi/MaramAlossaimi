@@ -28,7 +28,7 @@ tags: [Iterated Poisson skew algebras]
 featured: false
 
 image:
-  caption: '[](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ' '
   focal_point: smart
 
 links:
