@@ -37,7 +37,7 @@ links:
 
 - icon: Pdf
   icon_pack: fab
-  name: source
+  name: Source
   url: uploads/11.pdf
 url_code: ""
 url_pdf: ""
