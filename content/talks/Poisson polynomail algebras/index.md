@@ -49,7 +49,7 @@ url_video: ""
 ### Abstract:
  The concept of Poisson algebra is one of the most important concepts in mathematics that make a link between commutative and noncommutative algebra. The Poisson algebra 
  $D$ can be defined as an algebra over a field $K$ with Poisson bracket {$\cdot, \cdot$} such that ($D,$ {$\cdot, \cdot$}) is satisfying anticommutative, Jacobi identity 
- and Leibniz rule. In this talk, I will give the definition of Poisson algebra, talk about some related concepts of polynomial Poisson algebras and give some examples.
+ and Leibniz rule. In this talk, I give the definition of Poisson algebra, talk about some related concepts of polynomial Poisson algebras and give some examples.
 
 ### Event: 
 [The 10th International Eurasian Conference on Mathematical Sciences and applications](http://www.iecmsa.org)
