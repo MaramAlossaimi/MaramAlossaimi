@@ -2,7 +2,7 @@
 title: Poisson Algebras II
 subtitle:  Non-commutative Algebras
 # Summary for listings and search engines
-summary: I classified a  part of the  second case of Poisson algebra class $A$
+summary: The first subcase of second case (Case II.1)  classification 
 
 # Link this post with a project
 projects: [PhD thesis]
