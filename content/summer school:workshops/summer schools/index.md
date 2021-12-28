@@ -1,6 +1,6 @@
 ---
 title:  The Geoquant 2021, Geometry and Quantization summer school and conference
-summary: Poisson Geometry and quantum groups with their applications in physics, virtual, 2-6 and 9-13 August 2021.
+summary: Poisson Geometry and quantum groups with their applications in physics, virtual, 2 - 6 and 9 - 13 August 2021.
 
 
 tags:
