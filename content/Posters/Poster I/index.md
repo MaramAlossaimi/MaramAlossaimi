@@ -1,5 +1,5 @@
 ---
-title: Poisson Algebra I
+title: Poisson Algebras I
 subtitle:  Non-commutative Algebras
 # Summary for listings and search engines
 summary: I classified the first case of Poisson algebra class $A$
@@ -34,10 +34,14 @@ tags:
 - non-commutative algebras
 
 
-
+links:
+- icon: Pdf
+  icon_pack: fab
+  name: Thesis
+  url: uploads/22.pdf
 ---
 
-## Abstrac
+### Abstrac
 
 A large class of Poisson algebras $A$ is a polynomial Poisson algebra in two variables $x$ and $y$ with coefficients 
 in a polynomial Poisson algebra in one variable $t$. I classified class $A$, over an algebraic closure field $K$ with zero
