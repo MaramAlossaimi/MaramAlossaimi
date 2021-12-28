@@ -1,5 +1,5 @@
 ---
-title: An Introduction in Generalized Weyl Poisson Algebras Talk
+title:  Introduction in Generalized Weyl Poisson Algebras Talk
 
 event:  The 8th International Congress on Fundamental and Applied Sciences
 event_url: http://icfas2021.intsa.org/index.html
@@ -65,7 +65,7 @@ Poisson derivations on $D$ and $a=(a_1,a_2,\ldots,a_n)$ which is  an $n$-tuple e
 In this talk, I give the definition of the generalized Weyl Poisson algebra, I talk about the existence, and I give some definitions and examples 
 related to generalized Weyl Poisson algebras.
 ### Event: 
-[The 8th International Congress on Fundamental and Applied Sciences](http://icfas2021.intsa.org/index.html)
+[The $8^{th}$ International Congress on Fundamental and Applied Sciences](http://icfas2021.intsa.org/index.html)
 
 ### Location:
 Antalya Bilim Univeristy, Antalya, Turkey, 19-21 October 2021. 
