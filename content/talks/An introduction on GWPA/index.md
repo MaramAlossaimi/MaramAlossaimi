@@ -68,6 +68,6 @@ related to generalized Weyl Poisson algebras.
 [The $8^{th}$ International Congress on Fundamental and Applied Sciences](http://icfas2021.intsa.org/index.html)
 
 ### Location:
-Antalya Bilim Univeristy, Antalya, Turkey, 19-21 October 2021. 
+Antalya Bilim Univeristy, Antalya, Turkey, 19 - 21 October 2021. 
 
  
