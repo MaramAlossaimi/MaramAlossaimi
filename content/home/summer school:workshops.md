@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Summer schools/Workshops
+title: Summer schools & Workshops
 subtitle: ''
 
 content:
