@@ -35,7 +35,11 @@ tags:
 - CASE I
 
 
-
+links:
+- icon: Pdf
+  icon_pack: fab
+  name: Case I
+  url: uploads/I.pdf
 
 links:
 - icon: Pdf
