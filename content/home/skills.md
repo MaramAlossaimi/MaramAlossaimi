@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: 5
+  icon: assets/media/icons/5.svg
   icon_pack: 5
   name: Puzzles
 - description: 70%
