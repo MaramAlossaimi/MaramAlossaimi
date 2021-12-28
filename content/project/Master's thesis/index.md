@@ -17,6 +17,11 @@ links:
   icon_pack: fab
   name: Diagram
   url: uploads/22.pdf
+
+- icon: Pdf
+  icon_pack: fab
+  name: Dissertation
+  url: uploads/11.pdf
 url_code: ""
 url_pdf: "uploads/11.pdf"
 url_slides: 
