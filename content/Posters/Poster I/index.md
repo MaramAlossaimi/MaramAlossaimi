@@ -38,7 +38,7 @@ links:
 - icon: Pdf
   icon_pack: fab
   name: Thesis
-  url: uploads/22.pdf
+  url: uploads/1112.pdf
 ---
 
 ### Abstrac
