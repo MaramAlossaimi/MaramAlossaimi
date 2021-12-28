@@ -30,6 +30,11 @@ links:
   icon_pack: fab
   name: Website 
   url: https://math.uni.lu/geoquant/
+
+- icon: Pdf
+  icon_pack: fab
+  name: Poster I
+  url: uploads/1112.pdf
 url_code: ""
 url_pdf: "http://home.mathematik.uni-freiburg.de/GEOQUANT2021/school/Files/waldmann-notes.pdf"
 url_slides: ""
