@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: Pdf
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Thesis
+  url: uploads/22.pdf
 url_code: ""
 url_pdf: "uploads/22.pdf"
 url_slides: ""
