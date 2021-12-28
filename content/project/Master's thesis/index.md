@@ -1,5 +1,5 @@
 ---
-title: The Leech Lattice and Conway groups
+title:  Leech Lattice and Conway groups
 summary: Classification finite simple groups  
 tags: 
 
