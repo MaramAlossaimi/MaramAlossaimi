@@ -55,4 +55,4 @@ url_video: ""
 [The 10th International Eurasian Conference on Mathematical Sciences and applications](http://www.iecmsa.org)
 
 ### Location: 
-Sakarya, Turkey,  25-27 August 2021.
+Sakarya, Turkey,  $25-27$ August 2021.
