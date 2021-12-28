@@ -15,15 +15,20 @@ image:
 links:
 - icon: Pdf
   icon_pack: fab
-  name: Diagram
+  name: Figure
   url: uploads/22.pdf
 
 - icon: Pdf
   icon_pack: fab
   name: Dissertation
   url: uploads/11.pdf
+
+- icon: Pdf
+  icon_pack: fab
+  name: Table
+  url: uploads/16.pdf
 url_code: ""
-url_pdf: "uploads/11.pdf"
+url_pdf: ""
 url_slides: 
 url_video: ""
 
