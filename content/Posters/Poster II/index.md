@@ -1,5 +1,5 @@
 ---
-title: Poisson Algebra II
+title: Poisson Algebras II
 subtitle:  Non-commutative Algebras
 # Summary for listings and search engines
 summary: I classified a  part of the  second case of Poisson algebra class $A$
@@ -22,13 +22,12 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://drive.google.com/file/d/17XyZTJW62QnnTf5qveCScI3PaWLkzGxd/view?usp=sharing)'
-  focal_point: ""
+  caption: 'Image credit: [**Poster II**](https://drive.google.com/file/d/17XyZTJW62QnnTf5qveCScI3PaWLkzGxd/view?usp=sharing)'
+  focal_point: "smart"
   placement: 2
-  preview_only: false
+  preview_only: true
 
-authors:
-- admin
+
 
 
 tags:
