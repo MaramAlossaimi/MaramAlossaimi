@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 70%
   icon: assets/media/icons/5.svg
-  icon_pack: 5
+  icon_pack: assets/media/icons/5.svg
   name: Puzzles
 - description: 70%
   icon: chart-line
