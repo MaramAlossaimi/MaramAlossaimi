@@ -36,8 +36,14 @@ tags:
 
 
 ---
+links:
+- icon: Pdf
+  icon_pack: fab
+  name: Poster I
+  url: uploads/111.pdf
 
-## Abstrac
+
+### Abstrac
 
 The concept of Poisson algebras is one of the most important concepts in mathematics that make a link between commutative and non-commutative algebra. 
 Poisson algebras can be defined as Lie algebras that satisfy the Leibniz rule. Our research is about classifying a large Poisson algebra class $A = K[t][x,y]$,
