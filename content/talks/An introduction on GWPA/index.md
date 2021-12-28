@@ -1,5 +1,5 @@
 ---
-title: An Introduction in Generalized Weyl Poisson Algebras talk
+title: An Introduction in Generalized Weyl Poisson Algebras Talk
 
 event:  The 8th International Congress on Fundamental and Applied Sciences
 event_url: http://icfas2021.intsa.org/index.html
@@ -25,7 +25,7 @@ tags: [Generalized Weyl Poisson Algebras]
 featured: true
 
 image:
-  caption: '[](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: smart
 
 links:
