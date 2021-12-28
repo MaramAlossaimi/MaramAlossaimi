@@ -9,10 +9,20 @@ date: "2017-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: The Miracle Octad Generator (MOG)
   focal_point: Smart
 
 links:
+- icon: Pdf
+  icon_pack: fab
+  name: MOG Figure
+  url: uploads/33.pdf
+
+- icon: Pdf
+  icon_pack: fab
+  name: Project
+  url: uploads/M24.pdf
+
 url_code: ""
 url_pdf: "uploads/M24.pdf"
 url_slides: ""
