@@ -18,6 +18,11 @@ links:
   icon_pack: fab
   name: Website
   url: https://www.newton.ac.uk/event/MDLW04/
+  
+- icon: Pdf
+  icon_pack: fab
+  name: Poster I
+  url: uploads/1112.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
