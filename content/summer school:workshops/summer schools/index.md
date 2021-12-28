@@ -20,7 +20,7 @@ publishDate: "2021-08-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Poster on Summer school
+  caption: Poster I on the Summer school
   focal_point: Smart
 
 
