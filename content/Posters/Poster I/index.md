@@ -8,7 +8,7 @@ summary: I classified the first case of Poisson algebra class $A$
 projects: [PhD thesis]
 
 # Date published
-date: "2021-12-13T00:00:00Z"
+date: "2021-06-13T00:00:00Z"
 
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
@@ -22,10 +22,10 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Poster I'
   focal_point: "smart"
   placement: 2
-  preview_only: false
+  preview_only: true
 
 
 
@@ -37,7 +37,7 @@ tags:
 links:
 - icon: Pdf
   icon_pack: fab
-  name: Thesis
+  name: Poster I
   url: uploads/1112.pdf
 ---
 
