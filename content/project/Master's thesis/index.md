@@ -18,15 +18,18 @@ links:
   name: Figure
   url: uploads/22.pdf
 
-- icon: Pdf
-  icon_pack: fab
-  name: Dissertation
-  url: uploads/11.pdf
+
 
 - icon: Pdf
   icon_pack: fab
   name: Table
   url: uploads/16.pdf
+
+- icon: Pdf
+  icon_pack: fab
+  name: Dissertation
+  url: uploads/11.pdf
+  
 url_code: ""
 url_pdf: ""
 url_slides: 
