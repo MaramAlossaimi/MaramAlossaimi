@@ -2,7 +2,7 @@
 title: Poisson Algebras I
 subtitle:  Non-commutative Algebras
 # Summary for listings and search engines
-summary: The first case **(Case I)** classification of Poisson algebra class $A$
+summary: The first case's classification of Poisson algebra class $A$
 
 # Link this post with a project
 projects: [PhD thesis]
@@ -52,15 +52,15 @@ links:
   url: uploads/17.pdf
 ---
 
-### Abstrac
+### Abstrac:
 
-A large class of Poisson algebras $A$ is a polynomial Poisson algebra in two variables $x$ and $y$ with coefficients 
-in a polynomial Poisson algebra in one variable $t$. I classified class $A$, over an algebraic closure field $K$ with zero
-characteristic, by using Lemma (Oh, 2006). I concluded that there are three main cases, and each case has several subcases.
-Then I have found the Poisson spectrum of $A$ in each case. In this poster, I identify only the first case.
+A large class of Poisson algebras $A$ is the polynomial Poisson algebra in two variables $x$ and $y$ with coefficients 
+in the polynomial Poisson algebra in one variable $t$. We classified class $A$, over an algebraic closure field $K$ with zero
+characteristic, by using Lemma [Oh, 2006](https://drive.google.com/file/d/19Zh_mbET4isNuD18_yLcDfK8jxk4iIEk/view?usp=sharing). We concluded that there are three main cases, and each case has several subcases.
+Then we have found the Poisson spectrum of $A$ in each case. In this poster, I identify only the first case.
 
 
-### Events 
+### Events:
 I participated by presenting my poster in several conferences and workshops as an example
 
 1. [The British Mathematical Colloquium (BMC) and the British Applied Mathematics Colloquium (BAMC)](https://sites.google.com/view/bmcbamc2021/home?authuser=0), 6 - 9 April 2021.
