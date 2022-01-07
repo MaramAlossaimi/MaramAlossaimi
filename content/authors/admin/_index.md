@@ -73,7 +73,7 @@ highlight_name: true
 
 I  am a lecturer in Mathematics and Statistics department, Science  college at the  [University of Imam Mohammad Ibn Saud](https://imamu.edu.sa/en/Pages/default.aspx) in  Saudi Arabia since 2014.  
 
-In 2018, I started my PhD journey,  under the supervision of  [Prof. Vladimir Bavula](https://maths.dept.shef.ac.uk/maths/staff_info_1.html)
+I started my PhD journey in 2018,  under the supervision of  [Prof. Vladimir Bavula](https://maths.dept.shef.ac.uk/maths/staff_info_1.html).
 Our research is about classified a special case of the Poisson algebra class $A = (D;\alpha,\beta,c,u),$ [(Oh, 2006)](https://drive.google.com/file/d/19Zh_mbET4isNuD18_yLcDfK8jxk4iIEk/view?usp=sharing). 
 The case  is the Poisson polynomial  algebra in two variables $x$ and $y$ with coefficients in the Poisson polynomial  algebra $K[t]$ in one variable $t$. We classified the large Poisson algebra class 
 ${\color{brown(web)}A=K[t][x,y]}$, over an algebraic closure field $K$ with zero characteristic. The classification  consists of three main cases and each subcase has several subcases. We are interested 
