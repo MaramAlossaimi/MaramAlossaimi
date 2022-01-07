@@ -48,4 +48,4 @@ location: UK
 
 ---
 I attended the virtual Geoquant 2021, Geometry and Quantization summer school that was organised by Freiburg University, Freiburg, Germany between 2 to 6 August 2021. It was about Poisson Geometry and quantum groups with their applications in physics.
-After the summer school, there was a conference from 9 to 13 August 2021 and they gave me a chance to present my poster with the title 'Poisson Algebras I'. It was a lovely day and they were a lot of people who were interested in my poster and they asked many questions about my research. I enjoyed it.
+After the summer school, there was the conference from 9 to 13 August 2021 and they gave me a chance to present my poster with the title 'Poisson Algebras I'. It was a lovely day and they were a lot of people who were interested in my poster and they asked many questions about my research. I enjoyed it.
