@@ -6,7 +6,7 @@ title: Maram Alossaimi
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Non-commutative algebras, Poisson Algebras
+role: PhD student in Non-commutative algebra, Poisson Algebra
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,15 +14,15 @@ organizations:
   url: https://www.sheffield.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am intersted in Poisson algebras, non-commutative algebras and Poisson prime ideals.
+bio: I am intersted in Poisson algebra, non-commutative algebra and Poisson prime ideals.
 
 # Interests to show in About widget
 interests:
 - Group Theory
-- Rings Theory
-- Commutative Algebras
-- Poisson Algebras
-- Non-commutative Algebras
+- Ring Theory
+- Commutative Algebra
+- Poisson Algebra
+- Non-commutative Algebra
 
 # Education to show in About widget
 education:
@@ -71,8 +71,17 @@ email: "maram.alosaimi@gmail.com"
 highlight_name: true
 ---
 
-I am intersted in Poisson algebras, non-commutative algebras and Poisson prime ideals. My research in my PhD is  classifying a special case of the Poisson algebra class $A = (K[t]; \alpha, \beta, c, u)$ that is a polynomial Poisson algebra in two variables $x$ and $y$ with cofficients in a polynomial Poisson algebra $K[t]$ 
-in one variable $t$. We classified class $A = K[t][x,y]$, over an algebraic closure field $K$ with zero characteristic. We concluded that there are three main cases and each subcase consists of several subcases. 
-We are interested in the Poisson spectra, maximal and minimal Poisson prime ideals for Poisson algebra $A$ in each subcase. So, we classify all the Poisson prime ideals for these subcases to study properties of their Poisson enveloping 
-algebras and some of simple Poisson finite dimensional $A$-modules. We present the containment from Poisson prime ideals for each subcase in figures. This work has been done under the supervision of [Prof. Vladimir Bavula](https://maths.dept.shef.ac.uk/maths/staff_info_1.html).
+I  am a lecturer in Mathematics and Statistics department, Science  college at the  [University of Imam Mohammad Ibn Saud](https://imamu.edu.sa/en/Pages/default.aspx) in  Saudi Arabia since 2014.  
+
+In 2018, I started my PhD journey,  under the supervision of  [Prof. Vladimir Bavula](https://maths.dept.shef.ac.uk/maths/staff_info_1.html)
+Our research is about classified a special case of the Poisson algebra class $A = (D;\alpha,\beta,c,u),$ [(Oh, 2006)](https://drive.google.com/file/d/19Zh_mbET4isNuD18_yLcDfK8jxk4iIEk/view?usp=sharing). 
+The case  is the Poisson polynomial  algebra in two variables $x$ and $y$ with coefficients in the Poisson polynomial  algebra $K[t]$ in one variable $t$. We classified the large Poisson algebra class 
+${\color{brown(web)}A=K[t][x,y]}$, over an algebraic closure field $K$ with zero characteristic. The classification  consists of three main cases and each subcase has several subcases. We are interested 
+in the Poisson spectra, maximal and minimal Poisson prime ideals for each subcase of the Poisson algebra class $A$. Therefore, we classify all the Poisson prime ideals for these subcases in order to 
+study some properties of their Poisson algebras, Poisson enveloping algebras and some simple finite dimensional Poisson  ${\color{brown(web)}A}$-modules. I  present the results, i.e. the containment of 
+Poisson prime ideals for each subcase in diagrams. I presented this research in two posters (Poisson Algebras I) and (Poisson Algebras II).
+
+After, I finish my PhD’s degree I am going back to teach at the University of Imam Mohammad Ibn Saud.
+
+
 
