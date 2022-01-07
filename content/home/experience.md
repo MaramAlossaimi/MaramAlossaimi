@@ -43,7 +43,7 @@ experience:
     location: Saudi Arabia
     date_start: '2017-11-01'
     date_end: '2018-07-28'
-    description: Taught mathematics and statistic.
+    description: Taught Mathematics and Statistic in Mathematics and Statistics department, Science  college.
     
   - title: Master's degree
     company: Manchester University 
@@ -52,7 +52,7 @@ experience:
     location: UK
     date_start: '2016-09-20'
     date_end: '2017-10-20'
-    description: I took some modules in algebras and non-commutative algebras, I did short project in the Mathieu group $M_{24}$ and I wrote my dissertation, classified some simple finite groups, in particaular, the Leech Lattice and Conway groups and this work was done under the supervision of [Prof. Peter Rowley](https://www.research.manchester.ac.uk/portal/peter.j.rowley.html).
+    description: I took some modules in algebra and non-commutative algebra, I did my short project in the Mathieu group $M_{24}$ and I wrote my dissertation, classified some simple finite groups, in particaular, the Leech Lattice and Conway groups and this work was done under the supervision of [Prof. Peter Rowley](https://www.research.manchester.ac.uk/portal/peter.j.rowley.html).
   - title: Lecturer
     company: Imam Mohammad Ibn Saud Islamic University
     company_url: 'https://imamu.edu.sa/en/Pages/default.aspx'
@@ -60,7 +60,7 @@ experience:
     location: Saudi Arabia
     date_start: '2013-07-01'
     date_end: '2014-08-29'
-    description: Taught mathematics and statistic.
+    description: Taught Mathematics and Statistic in Mathematics and Statistics department, Science  college.
   - title: Bachelor's degree
     company:  King Saud University 
     company_url: 'https://ksu.edu.sa/en/'
@@ -68,7 +68,7 @@ experience:
     location: Saudi Arabia
     date_start: '2008-06-01'
     date_end: '2012-06-06'
-    description: I took some modules in Pure mathematics, Calculus, Analysis, Topology and some applied mathematics modules. In my final semester I did a short project in Topology. 
+    description: I took some modules in Pure mathematics, Calculus, Analysis, Topology and some applied mathematics modules. In my final semester I did my short project in Topology. 
     
 design:
   columns: '2'
