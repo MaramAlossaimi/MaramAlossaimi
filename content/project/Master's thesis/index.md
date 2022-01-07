@@ -27,8 +27,13 @@ links:
 
 - icon: Pdf
   icon_pack: fab
+  name: Cite
+  url: uploads/211.pdf
+
+- icon: Pdf
+  icon_pack: fab
   name: Dissertation
-  url: uploads/11.pdf
+  url: uploads/MasterThesis.pdf
   
 url_code: ""
 url_pdf: ""
@@ -42,6 +47,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 
 ---
+
+## Introduction:
 
 In February 1981, a historic achievement was made by several hundred international mathematicians over a period of thirty years which was completing the 
 classification of finite simple groups. The most interesting of the finite simple groups are the twenty-six sporadic groups. The sporadic groups acquired 
