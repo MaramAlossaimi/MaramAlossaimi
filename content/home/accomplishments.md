@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Rewards'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -27,7 +27,7 @@ item:
   company_logo: SU
   date_end: "2012-06-06"
   date_start: "2009-07-25"
-  description: "I got Distinguished Rewards several times during my Bachelor’s degree"
+  description: "I got distinguished awards several times during my Bachelor’s degree"
   organization: The University of King Saud
   organization_url: https://ksu.edu.sa/en/
   title:  Distinguished Rewards
@@ -35,7 +35,7 @@ item:
 - certificate_url: uploads/40.pdf
   date_end: "2017-10-01"
   date_start: "2016-09-01"
-  description: I got Distinguished Rewards during my Master’s degree
+  description: I got distinguished awards during my Master’s degree
   organization: The Saudi Arabia Cultural Bureau 
   organization_url: https://uksacb.org/home-en/
   title: Distinguished Rewards
