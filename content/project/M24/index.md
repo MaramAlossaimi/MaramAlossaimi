@@ -28,7 +28,7 @@ links:
   url: uploads/2111.pdf
 
 url_code: ""
-url_pdf: "uploads/Project.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -40,7 +40,7 @@ url_video: ""
 
 ---
 
-## Introduction:
+# Introduction:
 
 The Mathieu groups are $M_{11}, M_{12}, M_{22}, M_{23}$ and $M_{24},$ which are one family of the $26$ sporadic finite simple groups.
 They were discovered by the French mathematician Emile Mathieu. Furthermore, the first expression  of simplicity and uniqueness of Mathieu groups was 
