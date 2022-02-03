@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: <i class="icon-puzzle-piece"></i> 
+  icon: :books:
   icon_pack: 
   name: Puzzles
 - description: 70%
