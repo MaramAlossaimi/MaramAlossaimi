@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 70%
   icon: books
-  icon_pack: 
+  icon_pack: fas
   name: Puzzles
 - description: 70%
   icon: chart-line
