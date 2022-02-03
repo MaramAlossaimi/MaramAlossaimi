@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: 5
-  icon_pack: 
+  icon: <i class="icon-puzzle-piece"></i> 
+  icon_pack: <i class="icon-puzzle-piece"></i> 
   name: Puzzles
 - description: 70%
   icon: chart-line
