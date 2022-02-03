@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  company_logo: puzzle-heart-outline
+  icon: 5
   icon_pack: fas
   name: Puzzles
 - description: 70%
