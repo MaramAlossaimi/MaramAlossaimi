@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: Puzzle Piece
+  icon: puzzle-heart-outline
   icon_pack: fas
   name: Blue= "Puzzles"
 - description: 70%
