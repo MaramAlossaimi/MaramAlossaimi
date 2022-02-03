@@ -19,7 +19,7 @@ feature:
 - description: 70%
   icon: puzzle-heart-outline
   icon_pack: fas
-  name: Blue= "Puzzles"
+  name: Puzzles
 - description: 70%
   icon: chart-line
   icon_pack: fas
