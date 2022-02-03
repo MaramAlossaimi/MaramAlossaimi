@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 70%
   icon: <i class="icon-puzzle-piece"></i> 
-  icon_pack: <i class="icon-puzzle-piece"></i> 
+  icon_pack: 
   name: Puzzles
 - description: 70%
   icon: chart-line
