@@ -48,7 +48,7 @@ outputs:
 imaging:
   resampleFilter: lanczos
   quality: 75
-  anchor: smart
+  anchor: fit
 timeout: 600000
 taxonomies:
   tag: tags
