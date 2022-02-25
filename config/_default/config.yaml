@@ -14,7 +14,7 @@ copyright: '© {2021} Maram Alossaimi' # Footer text, e.g. '© {year} Me'
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
-removePathAccents: true
+removePathAccents: false
 
 ############################
 ## MODULES
@@ -46,7 +46,7 @@ outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: 
+  resampleFilter: lanczos
   quality: 75
   anchor: smart
 timeout: 600000
