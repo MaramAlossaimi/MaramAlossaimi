@@ -59,8 +59,8 @@ markup:
   _merge: deep
 related:
   threshold: 80
-  includeNewer: false
-  toLower: true
+  includeNewer: true
+  toLower: false
   indices:
     - name: tags
       weight: 100
