@@ -14,7 +14,7 @@ copyright: '© {2021} Maram Alossaimi' # Footer text, e.g. '© {year} Me'
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
-removePathAccents: false
+removePathAccents: true
 
 ############################
 ## MODULES
@@ -41,7 +41,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
-disableAliases: true
+disableAliases: false
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
