@@ -8,7 +8,7 @@ date: "2021-12-09T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image: /images/featured1.jpg?nf_resize=fit&w=300&h=400
+image: /images/featured.jpg?nf_resize=fit&w=300&h=400
   caption: ..
   focal_point: 
 
