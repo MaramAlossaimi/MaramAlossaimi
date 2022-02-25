@@ -10,7 +10,7 @@ external_link: ""
 
 image: 
   caption: ..
-  focal_point: 
+  focal_point: Smartcrop
 
 links:
 - icon: GitHub
