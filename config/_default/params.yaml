@@ -98,9 +98,9 @@ plugins_js: []
 avatar:
   gravatar: false
   shape: circle
-publications:
-  date_format: 
-  citation_style: 
+publications: 
+  date_format: Jane 2021
+  citation_style: apa
 projects:
   post_view: 2
   publication_view: 2
