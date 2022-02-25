@@ -10,7 +10,7 @@ external_link: ""
 
 image:
   caption: ..
-  focal_point: Smart
+  focal_point: ?nf_resize=fit&w=300&h=300
 
 links:
 - icon: GitHub
