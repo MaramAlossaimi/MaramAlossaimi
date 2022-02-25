@@ -41,7 +41,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
-disableAliases: false
+disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
@@ -59,7 +59,7 @@ markup:
   _merge: deep
 related:
   threshold: 80
-  includeNewer: true
+  includeNewer: false
   toLower: true
   indices:
     - name: tags
