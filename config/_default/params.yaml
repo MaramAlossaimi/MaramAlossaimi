@@ -83,7 +83,7 @@ show_related:
   project: false
   publication: false
   event: false
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true
@@ -118,7 +118,7 @@ comments:
     event: true
   disqus:
     shortname: ''
-    show_count: true
+    show_count: false
   commento:
     url: ''
 search: 
