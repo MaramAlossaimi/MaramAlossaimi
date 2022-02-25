@@ -10,7 +10,7 @@ external_link: ""
 
 image:
   caption: ..
-  focal_point: ?nf_resize=fit&w=300&h=300
+  focal_point: /images/featured.jpg?nf_resize=fit&w=300&h=400
 
 links:
 - icon: GitHub
