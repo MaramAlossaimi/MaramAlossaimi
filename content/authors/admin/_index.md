@@ -74,8 +74,8 @@ highlight_name: true
 I  am a lecturer in Mathematics and Statistics department, Science  college at the  [University of Imam Mohammad Ibn Saud](https://imamu.edu.sa/en/Pages/default.aspx) in  Saudi Arabia since 2014.  
 
 I started my PhD journey in 2018,  under the supervision of  [Prof. Vladimir Bavula](https://maths.dept.shef.ac.uk/maths/staff_info_1.html).
-Our research is about classified a special case of the Poisson algebra class $A = (D;\alpha,\beta,c,u),$ [(Oh, 2006)](https://drive.google.com/file/d/19Zh_mbET4isNuD18_yLcDfK8jxk4iIEk/view?usp=sharing). 
-The case  is the Poisson polynomial  algebra in two variables $x$ and $y$ with coefficients in the Poisson polynomial  algebra $K[t]$ in one variable $t$. We classified the large Poisson algebra class 
+Our research is about classifying a pecial case of the Poisson algebra class $A = (D;\alpha,\beta,c,u),$ [(Oh, 2006)](https://drive.google.com/file/d/19Zh_mbET4isNuD18_yLcDfK8jxk4iIEk/view?usp=sharing). 
+The case is the Poisson polynomial alg ra   two variables $x$ and $y$ with coefficients in the Poisson polynomial  algebra $K[t]$ in one variable $t$. We classified the large Poisson algebra class 
 ${\color{brown(web)}A=K[t][x,y]}$, over an algebraic closure field $K$ with zero characteristic. The classification  consists of three main cases and each subcase has several subcases. We are interested 
 in the Poisson spectra, maximal and minimal Poisson prime ideals for each subcase of the Poisson algebra class $A$. Therefore, we classify all the Poisson prime ideals for these subcases in order to 
 study some properties of their Poisson algebras, Poisson enveloping algebras and some simple finite dimensional Poisson  ${\color{brown(web)}A}$-modules. I  present the results, i.e. the containment of 
