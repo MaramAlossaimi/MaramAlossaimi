@@ -10,7 +10,7 @@ external_link: ""
 
 image:
   caption: The Miracle Octad Generator (MOG)
-  focal_point: Smart
+  focal_point: ?nf_resize=fit&w=300
 
 links:
 - icon: Pdf
