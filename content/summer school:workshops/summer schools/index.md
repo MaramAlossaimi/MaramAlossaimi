@@ -21,7 +21,7 @@ external_link: ""
 
 image:
   caption: Poster I on the Summer school
-  focal_point: ?nf_resize=fit&w=100
+  focal_point: ?nf_resize=fit&w=300
 
 
 
