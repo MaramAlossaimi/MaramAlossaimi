@@ -7,7 +7,7 @@ event_url: http://icfas2021.intsa.org/index.html
 location: Antalya, Turkey
 
 
-summary: I gave my virtua short talk at the $8^{th}$ International Congress on Fundamental and Applied Sciences, Antalya, Turkey, 19 - 21 October 2021.
+summary: I gave a virtual short talk at the $8^{th}$ International Congress on Fundamental and Applied Sciences, Antalya, Turkey, 19 - 21 October 2021.
 abstract: "The concept of Poisson algebra is one of the most important concepts in mathematics that make a link between commutative and noncommutative algebra. The Poisson algebra D can be defined as an algebra over a field K with Poisson bracket {,} such that (D,{,}) is satisfying anti-commutative, Jacobi identity and Leibniz rule. In this talk, I will give the definition of Poisson algebra, talk about some related concepts of polynomial Poisson algebras and give some examples."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
