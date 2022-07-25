@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: '[**Poster II**](https://drive.google.com/file/d/1kIq4Ptwc6ZuIywvHJODEhbW2Sv2wLeRr/view?usp=sharing)'
+  caption: '[**Poster II**](https://drive.google.com/file/d/11VlGKyk2wIehrxDSrAe5yFR5D7GCxRR1/view?usp=sharing)'
   focal_point: fit
   placement: 2
   preview_only: false
