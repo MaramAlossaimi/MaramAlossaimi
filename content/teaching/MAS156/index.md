@@ -1,6 +1,6 @@
 ---
 title: Electronic and electrical engineering/Aerospace engineering  MAS156
-summary: I gave tutorial classes as an assistant in  Autumn semester 2020 - 2021
+summary: An assistant in  Autumn semester 2020 - 2021
 tags:
 
 date: "2019-09-27T00:00:00Z"
