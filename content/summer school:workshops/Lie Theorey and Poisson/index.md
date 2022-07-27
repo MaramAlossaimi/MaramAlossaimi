@@ -38,7 +38,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/6ZXO8hd63kE"
+url_video: "https://drive.google.com/file/d/1-P3COySoTnGPz8qCgqDV4OXFnwCdbX9_/view?usp=sharing"
 location: UK
 # Slides (optional).
 #   Associate this project with Markdown slides.
