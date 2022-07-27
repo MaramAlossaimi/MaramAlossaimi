@@ -1,6 +1,6 @@
 ---
 title:  The Lie Theory and Poisson Geometry workshop
-summary: Lie theory and Poisson Geometry with their applications in physics, Marseille, France, 10 - 14 and 9 - 13 January 2022.
+summary: Lie theory and Poisson Geometry with their applications in physics, Marseille, France, 10 - 14 January 2022.
 
 
 tags:
