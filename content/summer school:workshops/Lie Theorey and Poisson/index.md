@@ -36,7 +36,7 @@ links:
   name: Etingof's note
   url: uploads/11112.pdf
 url_code: ""
-url_pdf: "http://home.mathematik.uni-freiburg.de/GEOQUANT2021/school/Files/waldmann-notes.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: "https://youtu.be/6ZXO8hd63kE"
 location: UK
