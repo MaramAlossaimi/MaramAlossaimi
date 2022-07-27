@@ -1,16 +1,16 @@
 ---
-title:  The Geoquant 2021, Geometry and Quantization summer school and conference
-summary: Poisson Geometry and quantum groups with their applications in physics, virtual, 2 - 6 and 9 - 13 August 2021.
+title:  The Lie Theory and Poisson Geometry workshop
+summary: Lie theory and Poisson Geometry with their applications in physics, Marseille, France, 10 - 14 and 9 - 13 January 2022.
 
 
 tags:
-location: Freiburg University
+location: Centre International de Rencontres Mathématiques
 address:
   street: 
-  city: Freiburg
+  city: Marseille
   region: 
   postcode: ''
-  country: Germany
+  country: France
   
 date: "2021-08-01T13:00:00Z"
 date_end: "2021-08-01T15:00:00Z"
@@ -20,7 +20,7 @@ publishDate: "2021-08-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Poster I on the Summer school
+  caption: 
   focal_point: ?nf_resize=fit&w=300
 
 
@@ -29,7 +29,7 @@ links:
 - icon: Website
   icon_pack: fab
   name: Website 
-  url: https://math.uni.lu/geoquant/
+  url: https://conferences.cirm-math.fr/2629.html
 
 - icon: Pdf
   icon_pack: fab
