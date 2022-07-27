@@ -1,6 +1,6 @@
 ---
 title:  Further Foundation Mathematics MAS004
-summary: As an assistant in Spring semester 2019 - 2020, 2020-2021 and 2021 - 2022. I marked  Homeworks and final exams in Spring semester 2020 - 2021 and 2021 - 2022.
+summary: As an assistant in Spring semester 2019 - 2020, 2020-2021 and 2021 - 2022.  Marking  Homeworks and final exams in Spring semester 2020 - 2021 and 2021 - 2022.
 tags:
 
 date: "2021-04-27T00:00:00Z"
