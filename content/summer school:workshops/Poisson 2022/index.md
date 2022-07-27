@@ -34,7 +34,7 @@ links:
 - icon: 
   icon_pack: 
   name: Bursztyn's notes
-  url: uploads/1112.pdf
+  url: uploads/21111.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
