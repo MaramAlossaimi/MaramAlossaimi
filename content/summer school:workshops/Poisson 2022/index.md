@@ -33,7 +33,7 @@ links:
 
 - icon: 
   icon_pack: 
-  name: 
+  name: Bursztyn's notes
   url: 
 url_code: ""
 url_pdf: ""
