@@ -1,6 +1,6 @@
 ---
 title: Core Foundation Mathematics MAS003
-summary: As an assistant in Autumn semester 2021 - 2022 
+summary: An assistant in Autumn semester 2021 - 2022 
 tags:
 -
 date: "2021-09-27T00:00:00Z"
