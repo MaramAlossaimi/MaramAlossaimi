@@ -33,7 +33,7 @@ links:
 
 - icon: Pdf
   icon_pack: fab
-  name: Etingof's note
+  name: Etingof's notes
   url: uploads/11112.pdf
 url_code: ""
 url_pdf: ""
