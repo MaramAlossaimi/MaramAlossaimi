@@ -1,6 +1,6 @@
 ---
 title:  Poisson 2022 Advanced school
-summary: Poisson Geometry and quantum groups with their applications in physics, Barcelona, Spain, 18-22 July 2022.
+summary: Poisson in Algebraic geometry and Poisson Geometry, Barcelona, Spain, 18-22 July 2022.
 
 
 tags:
@@ -32,7 +32,7 @@ links:
   url: https://www.crm.cat/2022-advanced-school-poisson/
 
 - icon: 
-  icon_pack: fab
+  icon_pack: 
   name: 
   url: 
 url_code: ""
