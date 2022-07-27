@@ -1,6 +1,6 @@
 ---
 title:  Poisson 2022 Advanced school
-summary: Poisson in Algebraic geometry and Poisson Geometry, Barcelona, Spain, 18-22 July 2022.
+summary: Poisson in Algebraic geometry and Poisson Geometry, Barcelona, Spain, 18 - 22 July 2022.
 
 
 tags:
@@ -12,10 +12,10 @@ address:
   postcode: ''
   country: Spain
   
-date: "2021-08-01T13:00:00Z"
-date_end: "2021-08-01T15:00:00Z"
+date: "2022-07-18T13:00:00Z"
+date_end: "2022-07-22T15:00:00Z"
 
-publishDate: "2021-08-02T00:00:00Z"
+publishDate: "2022-07-18T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
