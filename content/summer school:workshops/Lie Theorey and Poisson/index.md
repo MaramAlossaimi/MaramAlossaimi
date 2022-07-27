@@ -38,7 +38,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://drive.google.com/file/d/1-P3COySoTnGPz8qCgqDV4OXFnwCdbX9_/view?usp=sharing"
+url_video: "https://www.cirm-math.fr/Schedule/screen_display.php?id_renc=2629"
 location: UK
 # Slides (optional).
 #   Associate this project with Markdown slides.
