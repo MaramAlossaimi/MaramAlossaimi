@@ -47,3 +47,5 @@ location: UK
 #   Otherwise, set `slides = ""`.
 
 ---
+
+I attended the The Lie Theory and Poisson Geometry workshop that was organised by ​Centre International de Rencontres Mathématiques, Marseille, France between 10 to 14 January 2022. 
