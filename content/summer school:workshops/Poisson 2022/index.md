@@ -47,4 +47,4 @@ location:
 #   Otherwise, set `slides = ""`.
 
 ---
-
+I attended the Poisson 2022 Advanced school  that was organised by the Centre de Recerca Matemàtica, Barcelona, Spain between 18 to 22 July 2022. 
