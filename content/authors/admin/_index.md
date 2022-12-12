@@ -82,7 +82,7 @@ $$ (K[t]; f \partial_{t}, {\lambda^{-1}}f\partial_{t}, c, u) \ \\text{or}\ \ K[t
 
 with Poisson bracket defined by the rule
 
-$$	"{{"t, y"}}"=fy, \ \  {{t, x}}={\lambda^{-1}} f x \ \ \text{and}\ \ \{y, x\}=cyx+u.$$
+$$	 \lbrace t, y \rbrace=fy, \ \  {{t, x}}={\lambda^{-1}} f x \ \ \text{and}\ \ \{y, x\}=cyx+u.$$
 The class of Poisson algebras ${A}$ splits  into three  classes: {\bf  I}, {\bf  II} and {\bf  III}. Each of them splits further into subclasses. We are interested in the Poisson spectra, minimal Poisson ideals and maximal Poisson ideals of Poisson algebras ${A}$  in order to study some properties of their Poisson algebras, Poisson enveloping algebras and some simple finite dimensional Poisson  $A$-modules. The results, i.e. the containment of Poisson prime ideals for  Poisson algebras that belong to some subclasses are presented in diagrams.
 
 
