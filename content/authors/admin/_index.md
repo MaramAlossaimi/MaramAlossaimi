@@ -76,7 +76,7 @@ I started my PhD journey in 2018, under the supervision of [Prof. Vladimir Bavul
 classifications of  Poisson prime ideals for 
 a certain class of Poisson polynomial algebras ${A}$ in three variables. The study of such algebras was first introduced by Oh in 2006, [(Oh, 2006)](https://drive.google.com/file/d/19Zh_mbET4isNuD18_yLcDfK8jxk4iIEk/view?usp=sharing). The algebras ${A}=K[t][x,y]$ are the Poisson polynomial algebras in one variable $t$, with  trivial Poisson bracket, over an algebraically closed field $K$ of characteristic zero, that are extended into two variables $x$ and $y$, under certain conditions, such that if  $u$ is a fixed polynomial in $K[t]$, $f$ is an arbitrary polynomial in $K[t]$, $\lambda $ is a unit element in $K^\times,$ $c$ is an  arbitrary element in $ K,$ the partial derivations $\partial_t=\frac{d}{dt}$ and $\partial_y=\frac{d}{dy}$. The Poisson algebras ${A}$ can be denoted either by  
 
-$$(K[t]; f\partial_{t},  {\lambda^{-1}}f\partial_{t}, c, u), \text {or} K[t][y;f\partial_{t}]_p[x;  {\lambda^{-1}}f\partial_{t}, u\partial_{y}]_p$$
+$$ (K[t]; f\partial_{t},  {\lambda^{-1}}f\partial_{t}, c, u), \text {or} K[t][y;f\partial_{t}]_p[x;  {\lambda^{-1}}f\partial_{t}, u\partial_{y}]_p $$
 
 with Poisson bracket defined by the rule
 
