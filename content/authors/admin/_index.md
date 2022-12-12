@@ -77,7 +77,7 @@ classifications of  Poisson prime ideals for
 a certain class of Poisson polynomial algebras ${A}$ in three variables. The study of such algebras was first introduced by Oh in 2006, [(Oh, 2006)](https://drive.google.com/file/d/19Zh_mbET4isNuD18_yLcDfK8jxk4iIEk/view?usp=sharing). The algebras ${A}=K[t][x,y]$ are the Poisson polynomial algebras in one variable $t$, with  trivial Poisson bracket, over an algebraically closed field $K$ of characteristic zero, that are extended into two variables $x$ and $y$, under certain conditions, such that if  $u$ is a fixed polynomial in $K[t]$, $f$ is an arbitrary polynomial in $K[t]$, $\lambda $ is a unit element in $K^\times,$ $c$ is an  arbitrary element in $ K,$ the partial derivations $\partial_t=\frac{d}{dt}$ and $\partial_y=\frac{d}{dy}$. The Poisson algebras ${A}$ can be denoted either by  $(K[t]; f\partial_{t},  {\lambda^{-1}}f\partial_{t}, c, u), $ or $K[t][y;f\partial_{t}]_p[x;  {\lambda^{-1}}f\partial_{t}, u\partial_{y}]_p$  
 with Poisson bracket defined by the rule
 
-$	\{t, y\}=fy,      \{t, x\}={\lambda^{-1}} f x $ \text {and} $\{y, x\}=cyx+u. $
+\$	\{t, y\}=fy,      \{t, x\}={\lambda^{-1}} f x $ \text {and} $\{y, x\}=cyx+u. \$
 The class of Poisson algebras ${A}$ splits  into three  classes: {\bf  I}, {\bf  II} and {\bf  III}. Each of them splits further into subclasses. We are interested in the Poisson spectra, minimal Poisson ideals and maximal Poisson ideals of Poisson algebras ${A}$  in order to study some properties of their Poisson algebras, Poisson enveloping algebras and some simple finite dimensional Poisson  $A$-modules. The results, i.e. the containment of Poisson prime ideals for  Poisson algebras that belong to some subclasses are presented in diagrams.
 
 
