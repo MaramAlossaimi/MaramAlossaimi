@@ -28,7 +28,7 @@ experience:
     company_logo: SU
     location: UK
     date_start: '2018-10-01'
-    date_end: '2022-12-7'
+    date_end: '2022-12-07'
     description: |2-
         Responsibilities include:
         
