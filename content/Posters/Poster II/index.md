@@ -2,7 +2,7 @@
 title: Poisson Algebras II
 subtitle:  Non-commutative Algebras
 # Summary for listings and search engines
-summary: The first subcase of second case classification of Poisson algebra class $A$
+summary: The first part of the second class Poisson algebras $A$
 
 # Link this post with a project
 projects: [PhD thesis]
@@ -38,7 +38,7 @@ tags:
 links:
 - icon: Pdf
   icon_pack: fab
-  name: Case II
+  name: Class II
   url: uploads/II.pdf
   
 - icon: Pdf
@@ -54,12 +54,11 @@ links:
 ### Abstrac:
 
 The concept of Poisson algebras is one of the most important concepts in mathematics that make a link between commutative and non-commutative algebra. 
-Poisson algebras can be defined as Lie algebras that satisfy the Leibniz rule. Our research is about classifying a large Poisson algebra class $A = K[t][x,y]$,
-that is the Poisson polynomial algebra in two variables $x$ and $y$ with coefficients on the Poisson polynomial algebra $K[t]$, where $K$ is an algebraic closure field 
-with zero characteristic. There are three main cases of the classification of the Poisson algebra class $A$. We are interested in the Poisson spectrum of $A$, 
-minimal and maximal Poisson ideals of $A$. I present the first case of the classification in the poster called "Poisson Algebras I" and in this poster, 
-I  present a part of the second case of the classification and its Poisson spectrum.
-
+Poisson algebras can be defined as Lie algebras that satisfy the Leibniz rule. Our research is about classifying some Poisson prime ideals of a certine class of Poisson algebras.
+The Poisson algebra $A=K[t][x,y]$ is a   Poisson polynomial algebra in two variables $x$ and $y$ with coefficients on the Poisson polynomial algebra $K[t]$, where $K$ is an algebraically closed field 
+of characteristic zero. There are three main classes of the class of the Poisson algebras $A$. We are interested in the Poisson spectrum of $A$, 
+minimal and maximal Poisson ideals of $A$. I presented the first class of Poisson algebras $A$ in the poster "Poisson Algebras I" and in this poster, 
+I  present a part of the second class of Poisson algebras $A$.
 
 
 
