@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Maram Alossaimi
+title: Dr. Maram Alossaimi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Non-commutative algebra, Poisson Algebra
+role: Pure Mathematics, Non-commutative Algebras, Poisson Algebras
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,9 +20,9 @@ bio: I am intersted in Poisson algebra, non-commutative algebra and Poisson prim
 interests:
 - Group Theory
 - Ring Theory
-- Commutative Algebra
-- Poisson Algebra
-- Non-commutative Algebra
+- Commutative Algebras
+- Non-commutative Algebras
+- Poisson Algebras
 
 # Education to show in About widget
 education:
