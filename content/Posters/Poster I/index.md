@@ -54,10 +54,13 @@ links:
 
 ### Abstrac:
 The Poisson algebras $A$ is the polynomial Poisson algebra in two variables $x$ and $y$ with coefficients 
-in the polynomial Poisson algebra in one variable $t$. We construct the Poisson algebras $A=K[t][x,y]$ over an algebraic closure field $K$ of zero
-characteristic, by using Lemma [$[$Oh, 2006$]$](https://drive.google.com/file/d/19Zh_mbET4isNuD18_yLcDfK8jxk4iIEk/view?usp=sharing).
-We concluded that there are three main classes, and each class has several subclasses.
-Then we found the Poisson spectrum of $A$ in some classes. In this poster, I identify only the first class.
+in the polynomial Poisson algebra in one variable $t$. The Poisson algebras $A=K[t][x,y]$ over an algebraically closed field  $K$ of 
+characteristic zero is constructed  by using Lemma [$[$Oh, 2006$]$](https://drive.google.com/file/d/19Zh_mbET4isNuD18_yLcDfK8jxk4iIEk/view?usp=sharing).
+There are three main classes, and each class has several subclasses.
+We are interested in the Poisson spectrum of $A$, minimal and maximal Poisson ideals of $A$.  In this poster, I identify the first class of Poisson algebras $A$.
+
+
+
 
 
 ### Events:
