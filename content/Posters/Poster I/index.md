@@ -2,7 +2,7 @@
 title: Poisson Algebras I
 subtitle:  Non-commutative Algebras
 # Summary for listings and search engines
-summary: The first case's classification of Poisson algebra class $A$
+summary: The first class of Poisson algebras $A$
 
 # Link this post with a project
 projects: [PhD thesis]
@@ -31,14 +31,14 @@ image:
 
 tags:
 - Poisson spectrum algebras
-- Classification of Poisson algebra class $A$
-- CASE I
+- Classification of Poisson prime ideals
+- Class I
 
 
 links:
 - icon: Pdf
   icon_pack: fab
-  name: Case I
+  name: Class I
   url: uploads/I.pdf
 
 - icon: Pdf
@@ -53,12 +53,11 @@ links:
 ---
 
 ### Abstrac:
-
-A large class of Poisson algebras $A$ is the polynomial Poisson algebra in two variables $x$ and $y$ with coefficients 
-in the polynomial Poisson algebra in one variable $t$. We classified class $A$, over an algebraic closure field $K$ with zero
-characteristic, by using Lemma [Oh, 2006](https://drive.google.com/file/d/19Zh_mbET4isNuD18_yLcDfK8jxk4iIEk/view?usp=sharing).
-We concluded that there are three main cases, and each case has several subcases.
-Then we have found the Poisson spectrum of $A$ in each case. In this poster, I identify only the first case.
+The Poisson algebras $A$ is the polynomial Poisson algebra in two variables $x$ and $y$ with coefficients 
+in the polynomial Poisson algebra in one variable $t$. We construct the Poisson algebras $A=K[t][x,y]$, over an algebraic closure field $K$ of zero
+characteristic, by using Lemma [$[$Oh, 2006$]$](https://drive.google.com/file/d/19Zh_mbET4isNuD18_yLcDfK8jxk4iIEk/view?usp=sharing).
+We concluded that there are three main classes, and each class has several subclasses.
+Then we found the Poisson spectrum of $A$ in some classes. In this poster, I identify only the first class.
 
 
 ### Events:
