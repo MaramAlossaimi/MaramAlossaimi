@@ -10,7 +10,7 @@ role: Pure Mathematics, Non-commutative Algebras, Poisson Algebras
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Imam Mohammad Ibn Saud 
+- name: Imam Mohammad Ibn Saud University
   url: https://imamu.edu.sa/en/Pages/default.aspx
 
 # Short bio (displayed in user profile at end of posts)
