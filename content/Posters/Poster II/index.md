@@ -2,7 +2,7 @@
 title: Poisson Algebras II
 subtitle:  Non-commutative Algebras
 # Summary for listings and search engines
-summary: The first part of the second class Poisson algebras $A$
+summary: The first part of the second class of Poisson algebras $A$
 
 # Link this post with a project
 projects: [PhD thesis]
