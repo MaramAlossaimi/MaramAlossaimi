@@ -54,11 +54,11 @@ links:
 ### Abstrac:
 
 The concept of Poisson algebras is one of the most important concepts in mathematics that make a link between commutative and non-commutative algebra. 
-Poisson algebras can be defined as Lie algebras that satisfy the Leibniz rule. Our research is about classifying some Poisson prime ideals of a certine class of Poisson algebras.
-The Poisson algebra $A=K[t][x,y]$ is a   Poisson polynomial algebra in two variables $x$ and $y$ with coefficients on the Poisson polynomial algebra $K[t]$, where $K$ is an algebraically closed field 
+Poisson algebras can be defined as Lie algebras that satisfy the Leibniz rule. Our research classifies some Poisson prime ideals of a certain class of Poisson algebras.
+The Poisson Algebras $A=K[t][x,y]$ are   Poisson polynomial algebras in two variables $x$ and $y$ with coefficients on the Poisson polynomial algebra $K[t]$, where $K$ is an algebraically closed field 
 of characteristic zero. There are three main classes of the class of the Poisson algebras $A$. We are interested in the Poisson spectrum of $A$, 
-minimal and maximal Poisson ideals of $A$. I presented the first class of Poisson algebras $A$ in the poster "Poisson Algebras I" and in this poster, 
-I  present a part of the second class of Poisson algebras $A$.
+minimal and maximal Poisson ideals of $A$. The first class of Poisson algebras $A$ is presented in the poster "Poisson Algebras I". This poster
+is shown the first part of the second class of Poisson algebras $A$.
 
 
 
