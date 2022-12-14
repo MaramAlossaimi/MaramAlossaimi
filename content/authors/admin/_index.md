@@ -10,8 +10,8 @@ role: Pure Mathematics, Non-commutative Algebras, Poisson Algebras
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Sheffield University
-  url: https://www.sheffield.ac.uk
+- name: University of Imam Mohammad Ibn Saud 
+  url: https://imamu.edu.sa/en/Pages/default.aspx
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am intersted in Poisson algebra, non-commutative algebra and Poisson prime ideals.
