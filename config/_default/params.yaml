@@ -37,10 +37,10 @@ directions:
 office_hours:
 appointment_url: 
 contact_links:
-  - icon: twitter
+  - icon: 
     icon_pack: fab
     name: Maram Alossaimi
-    link: 'https://twitter.com/AlossaimiMaram'
+    link: ''
 
 
 # Site header
