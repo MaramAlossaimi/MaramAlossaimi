@@ -18,10 +18,10 @@ bio: I am intersted in Poisson algebra, non-commutative algebra and Poisson prim
 
 # Interests to show in About widget
 interests:
-- Group Theory
 - Ring Theory
 - Commutative Algebras
 - Non-commutative Algebras
+- Lie Algebras
 - Poisson Algebras
 
 # Education to show in About widget
@@ -68,7 +68,7 @@ email: "maram.alosaimi@gmail.com"
 highlight_name: true
 ---
 
-I  am a lecturer in Mathematics and Statistics department, Science  college at the  [University of Imam Mohammad Ibn Saud](https://imamu.edu.sa/en/Pages/default.aspx) in  Saudi Arabia since 2014.  
+I  am an assistant professor in Mathematics and Statistics department, Science  college at the  [University of Imam Mohammad Ibn Saud](https://imamu.edu.sa/en/Pages/default.aspx) in  Saudi Arabia since 2014.  
 
 
 I started my PhD journey in 2018, under the supervision of [Prof. Vladimir Bavula](https://maths.dept.shef.ac.uk/maths/staff_info_1.html). Our research is devoted to studying
