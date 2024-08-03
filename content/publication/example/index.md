@@ -19,7 +19,7 @@ date: "2024-20-24T00:00:00Z"
 doi: "https://doi.org/10.29020/nybg.ejpam.v17i3.5210"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-01-01T00:00:00Z"
+publishDate: "2024-07-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -66,12 +66,12 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- 
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: 
 ---
