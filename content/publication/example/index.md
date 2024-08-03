@@ -19,7 +19,7 @@ date: "2024-7-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-31T00:00:00Z"
+publishDate: "2024-7-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+url: https://www.ejpam.com/index.php/ejpam/article/view/5210
 
 url_pdf: ''
 url_code: ''
