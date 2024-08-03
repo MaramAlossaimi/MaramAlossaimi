@@ -16,21 +16,26 @@ author_notes:
 - ajalkalaf@imamu.edu.sa
 - rohaidah@fsmt.upsi.edu.my
 - tfaith80@gmail.com
+<<<<<<< HEAD
 
 =======
 
+=======
 
-date: "2024-08-31T00:00:00Z"
+=======
+>>>>>>> cfed30abfccdf1665973d65c6344176684ef3e7b
+
+date: "2024-7-31T00:00:00Z"
 doi: "https://doi.org/10.29020/nybg.ejpam.v17i3.5210"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-31T00:00:00Z"
+publishDate: "2024-7-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["3"]    
 
 # Publication name and optional abbreviated publication name.
 publication: In *European Journal of Pure and Applied Mathematics*
