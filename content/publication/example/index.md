@@ -6,9 +6,9 @@ title: "$D$-Semiprime Rings"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Ahmad Alkhalaf
-- Rohaidah Masri
-- Iman Taha
+- Pro. Ahmad Alkhalaf
+- Dr. Rohaidah Masri
+- Dr. Iman Taha
 
 # Author notes (optional)
 author_notes:
