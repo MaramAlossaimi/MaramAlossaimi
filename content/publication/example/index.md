@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-url: https://www.ejpam.com/index.php/ejpam/article/view/5210
+# url: https://www.ejpam.com/index.php/ejpam/article/view/5210
 
 url_pdf: ''
 url_code: ''
