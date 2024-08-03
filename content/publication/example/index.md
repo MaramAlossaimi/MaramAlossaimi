@@ -1,5 +1,5 @@
 ---
-title: "$\mathfrak D$-Semiprime Rings"
+title: "$ D$-Semiprime Rings"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,8 +12,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- 
 
 date: "2024-07-31T00:00:00Z"
 doi: ""
@@ -31,7 +31,7 @@ publication_types: ["3"]
 publication: In *European Journal of Pure and Applied Mathematics*
 publication_short: In *EJPAM*
 
-abstract: Let $R$ be an associative and 2-torsion-free ring with an identity. in this work, we will generalize the results of differentially prime rings in [18] by applying the hypotheses in a differentially semiprime rings. In particular, we have proved that if $R$ is a $\mathfrak D$-semiprime ring, then either $R$ is a commutative ring or $\mathfrak D$ is a semiprime ring.
+abstract: Let $R$ be an associative and 2-torsion-free ring with an identity. in this work, we will generalize the results of differentially prime rings in [18] by applying the hypotheses in a differentially semiprime rings. In particular, we have proved that if $R$ is a $ D$-semiprime ring, then either $R$ is a commutative ring or $D$ is a semiprime ring.
 # Summary. An optional shortened abstract.
 summary: 
 tags: []
