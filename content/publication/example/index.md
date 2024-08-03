@@ -12,8 +12,11 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- 
-- 
+- mhalosaimi@imamu.edu.sa
+- ajalkalaf@imamu.edu.sa
+- rohaidah@fsmt.upsi.edu.my
+- tfaith80@gmail.com
+
 
 date: "2024-7-2T00:00:00Z"
 doi: "https://doi.org/10.29020/nybg.ejpam.v17i3.5210"
