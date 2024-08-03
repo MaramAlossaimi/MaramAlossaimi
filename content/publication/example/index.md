@@ -16,7 +16,7 @@ author_notes:
 - 
 
 date: "2024-7-2T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.29020/nybg.ejpam.v17i3.5210"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-7-31T00:00:00Z"
