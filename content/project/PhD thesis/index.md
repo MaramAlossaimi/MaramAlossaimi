@@ -3,7 +3,7 @@ title: PhD thesis
 summary: An example of using the in-built project page.
 tags:
 
-date: "2022-12-27T00:00:00Z"
+date: "2025-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
