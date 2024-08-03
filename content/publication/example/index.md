@@ -16,9 +16,14 @@ author_notes:
 - ajalkalaf@imamu.edu.sa
 - rohaidah@fsmt.upsi.edu.my
 - tfaith80@gmail.com
+<<<<<<< HEAD
 
 =======
 
+=======
+
+=======
+>>>>>>> cfed30abfccdf1665973d65c6344176684ef3e7b
 
 date: "2024-7-31T00:00:00Z"
 doi: "https://doi.org/10.29020/nybg.ejpam.v17i3.5210"
