@@ -31,7 +31,7 @@ publication_types: ["3"]
 publication: In *European Journal of Pure and Applied Mathematics*
 publication_short: In *EJPAM*
 
-abstract: Let R be an associative and 2-torsion-free ring with an identity. in this work, we will generalize the results of differentially prime rings in [18] by applying the hypotheses in a differentially semiprime rings. In particular, we have proved that if R is a D-semiprime ring, then either R is a commutative ring or D is a semiprime ring.
+abstract: Let $R$ be an associative and 2-torsion-free ring with an identity. in this work, we will generalize the results of differentially prime rings in [18] by applying the hypotheses in a differentially semiprime rings. In particular, we have proved that if $R$ is a $D$-semiprime ring, then either $R$ is a commutative ring or $D$ is a semiprime ring.
 # Summary. An optional shortened abstract.
 summary: 
 tags: []
@@ -73,12 +73,5 @@ projects:
 slides: 
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
