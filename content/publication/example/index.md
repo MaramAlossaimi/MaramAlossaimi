@@ -16,9 +16,13 @@ author_notes:
 - ajalkalaf@imamu.edu.sa
 - rohaidah@fsmt.upsi.edu.my
 - tfaith80@gmail.com
+<<<<<<< HEAD
+=======
+
+>>>>>>> e892a9bf4d27813ec6ea72bcbfe6d90edaf63946
 
 
-date: "2024-8-31T00:00:00Z"
+date: "2024-08-31T00:00:00Z"
 doi: "https://doi.org/10.29020/nybg.ejpam.v17i3.5210"
 
 # Schedule page publish date (NOT publication's date).
