@@ -15,7 +15,7 @@ author_notes:
 - "mhalosaimi@imamu.edu.sa"
 - "ajalkalaf@imamu.edu.sa"
 
-date: "2024-20-24T00:00:00Z"
+date: "2024-07-31T00:00:00Z"
 doi: "https://doi.org/10.29020/nybg.ejpam.v17i3.5210"
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,7 @@ publishDate: "2024-07-31T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *EUROPEAN JOURNAL OF PURE AND APPLIED MATHEMATICS*
+publication: In *European Journal of Pure and Applied Mathematics.*
 publication_short: In *EJPAM*
 
 abstract: Let $R$ be an associative and 2-torsion-free ring with an identity. in this work, we will generaliz the results of differentially prime rings in [18] by applying the hypotheses in a differentially semiprime rings. In particular, we have proved that if $R$ is a $D$-semiprime ring, then either $R$ is a commutative ring or $D$ is a semiprime ring.
