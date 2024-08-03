@@ -12,11 +12,11 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "mhalosaimi@imamu.edu.sa"
+- "ajalkalaf@imamu.edu.sa"
 
 date: "2024-20-24T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.29020/nybg.ejpam.v17i3.5210"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
@@ -25,16 +25,14 @@ publishDate: "2024-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *EUROPEAN JOURNAL OF PURE AND APPLIED MATHEMATICS*
+publication_short: In *EJPAM*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Let $R$ be an associative and 2-torsion-free ring with an identity. in this work, we will generaliz the results of differentially prime rings in [18] by applying the hypotheses in a differentially semiprime rings. In particular, we have proved that if $R$ is a $D$-semiprime ring, then either $R$ is a commutative ring or $D$ is a semiprime ring.
+summary: 
 
 tags: []
 
