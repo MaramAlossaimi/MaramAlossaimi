@@ -15,7 +15,7 @@ author_notes:
 - "mhalosaimi@imamu.edu.sa"
 - "ajalkalaf@imamu.edu.sa"
 
-date: "2024-07-31T00:00:00Z"
+date: "2024-07-00T00:00:00Z"
 doi: "https://doi.org/10.29020/nybg.ejpam.v17i3.5210"
 
 # Schedule page publish date (NOT publication's date).
