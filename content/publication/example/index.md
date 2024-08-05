@@ -19,7 +19,11 @@ date: "2024-07-00T00:00:00Z"
 doi: "https://doi.org/10.29020/nybg.ejpam.v17i3.5210"
 
 # Schedule page publish date (NOT publication's date).
+<<<<<<< HEAD
 publishDate: "2024-10-52T00:00:00Z"
+=======
+publishDate: "2024-08-01T00:00:00Z"
+>>>>>>> 93568521d7be3f4d58289330c169fa677ecefac6
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
