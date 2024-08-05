@@ -20,7 +20,11 @@ doi: "https://doi.org/10.29020/nybg.ejpam.v17i3.5210"
 
 # Schedule page publish date (NOT publication's date).
 
+<<<<<<< HEAD
 publishDate: "2024-07-10T00:00:00Z"
+=======
+publishDate: "2024-08-02T00:00:00Z"
+>>>>>>> f538bfcc411fb3bb2aa1f168079f1a5160228327
 =======
 
 
